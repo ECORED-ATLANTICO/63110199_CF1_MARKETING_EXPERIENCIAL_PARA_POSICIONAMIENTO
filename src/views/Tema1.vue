@@ -130,7 +130,7 @@
       table
         caption Nota. Elaboración propia con base en Stanton et al. (2026).
         thead
-          tr(style="background-color: #F0F6F9")
+          tr(style="background-color: #DDFAF1")
             th Elemento
             th(colspan="2") Descripción	
             th(colspan="2") Ejemplo aplicado
@@ -139,7 +139,7 @@
             td #[strong Mercado objetivo]
             td(colspan="2") Segmento específico de consumidores definido a partir de variables demográficas, geográficas o comportamentales, al cual la empresa dirige sus esfuerzos comerciales para satisfacer necesidades identificadas.
             td(colspan="2") Una empresa de productos infantiles dirige su oferta a padres entre 25 y 40 años con hijos pequeños en zonas urbanas.
-          tr
+          tr(style="background-color: #F6F6F6")
             td #[strong Mensaje]
             td(colspan="2") Contenido comunicativo estructurado que transmite los atributos, beneficios y propuesta de valor del producto, diseñado para influir en la percepción y decisión del consumidor.
             td(colspan="2") Una marca de detergente comunica “mayor limpieza con menor esfuerzo” en su campaña publicitaria televisiva.
@@ -147,7 +147,7 @@
             td #[strong Canal]
             td(colspan="2") Medio o conjunto de medios utilizados para difundir el mensaje al mercado objetivo, permitiendo el alcance y la visibilidad de la marca en diferentes contextos.
             td(colspan="2") Una empresa utiliza televisión y radio para promocionar un nuevo producto en el mercado nacional.
-          tr
+          tr(style="background-color: #F6F6F6")
             td #[strong Audiencia]
             td(colspan="2") Conjunto de personas que reciben el mensaje, incluyendo tanto el público objetivo como otros receptores potenciales que pueden verse impactados por la comunicación.
             td(colspan="2") Una campaña televisiva es vista por familias, jóvenes y adultos, aunque esté dirigida principalmente a amas de casa.
@@ -305,7 +305,7 @@
       table
         caption Nota. Elaboración propia con base en Stanton et al. (2026).
         thead
-          tr(style="background-color: #F0F6F9")
+          tr(style="background-color: #DDFAF1")
             th Principio
             th(colspan="2") Descripción		
             th(colspan="2") Ejemplo aplicado
@@ -314,7 +314,7 @@
             td #[strong Orientación al cliente]
             td(colspan="2") Enfoque estratégico que prioriza la identificación, comprensión y satisfacción de las necesidades del consumidor, permitiendo diseñar productos y mensajes alineados con sus expectativas.
             td(colspan="2") Una empresa de telefonía analiza las necesidades de conectividad de jóvenes y crea planes con alto consumo de datos móviles.
-          tr
+          tr(style="background-color: #F6F6F6")
             td #[strong Generación de valor]
             td(colspan="2") Capacidad de la empresa para ofrecer beneficios funcionales y simbólicos que superen las expectativas del cliente, influyendo en su percepción y decisión de compra.
             td(colspan="2") Una marca de electrodomésticos ofrece garantía extendida y eficiencia energética como valor agregado frente a la competencia.
@@ -322,7 +322,7 @@
             td #[strong Segmentación]
             td(colspan="2") Proceso de dividir el mercado en grupos homogéneos de consumidores con características similares, facilitando el diseño de estrategias diferenciadas.
             td(colspan="2") Una marca de ropa crea líneas específicas para jóvenes, adultos y niños, adaptando diseño y comunicación a cada grupo.
-          tr
+          tr(style="background-color: #F6F6F6")
             td #[strong Coherencia]
             td(colspan="2") Consistencia entre el mensaje, los canales y la propuesta de valor de la marca, garantizando que la comunicación sea clara y alineada en todos los puntos de contacto.
             td(colspan="2") Una empresa mantiene el mismo tono y mensaje en televisión, radio y punto de venta, reforzando su identidad de marca.

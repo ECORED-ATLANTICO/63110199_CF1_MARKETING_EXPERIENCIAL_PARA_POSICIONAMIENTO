@@ -72,6 +72,16 @@ figcaption, table caption
   &--5
     background-image: url("../assets/curso/common/bg-cards.png")
 
+
+.bg-audio
+  background-image: url("../assets/curso/common/bg-audio.png")
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+  @media (min-width: 992px)
+    background-size: contain
+
+
 .bg-contenido-a10
   background-color: $color-acento-contenido-a10
 
@@ -256,6 +266,10 @@ figcaption, table caption
   width: 124px
   margin: 0 auto
 
+.iw-250
+  width: 250px
+  margin: 0 auto
+
 .iw-262
   width: 262px
   margin: 0 auto
@@ -267,3 +281,50 @@ figcaption, table caption
     background-color: $color-acento-botones
     border-color: $color-acento-botones
     color: $white
+
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 30px)
+    height: 100%
+    background-color: #C5E5FE
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+  &.bg-p5
+    &::before
+      background-color: $color-primario-p5
+  &.bg-s5
+    &::before
+      background-color: $color-secundario-s5
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+.tabla-a
+  &--text-left
+    td
+      text-align: left !important
