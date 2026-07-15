@@ -12,8 +12,8 @@
       p.mb-0 Las ventajas de comprender las formas de decisión de compra impulsiva y racional radican en la capacidad de las organizaciones para diseñar estrategias más efectivas, alineadas con el comportamiento del consumidor, este conocimiento permite identificar cómo influyen los factores emocionales y racionales en la elección del cliente, optimizando la experiencia y el posicionamiento de la marca.
 
     .titulo-sexto.color-acento-contenido
-    h5 Tabla 10.
-    span Ventajas de comprender la decisión de compra
+      h5 Tabla 10.
+      span Ventajas de comprender la decisión de compra
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-4
     table
       caption Nota. SENA, (2026).
