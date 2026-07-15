@@ -120,7 +120,7 @@
     padding-left: $tarjeta-avatar-b-ancho-img / 2
 
 .tarjeta-numerada
-  border: solid 2px
+  border: solid 3px
   border-radius: 20px
   position: relative
   margin-left: 30px
@@ -163,6 +163,12 @@
       background-color: $color-acento-botones
       div
         color: textColor($color-acento-botones)
+  &.color-terciario
+    border-color: $color-terciario
+    .tarjeta-numerada__numero
+      background-color: $color-terciario
+      div
+        color: textColor($color-terciario)
 
 .tarjeta-flip
   background-color: transparent !important

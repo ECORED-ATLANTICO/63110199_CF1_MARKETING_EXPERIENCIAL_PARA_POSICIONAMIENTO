@@ -52,14 +52,14 @@
 
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-xl-10
-        TabsA.color-acento-botones
-          .tarjeta.bg-primario-p10.p-4(titulo="Unidireccionalidad, sin interacción directa")
+        TabsA.color-acento-botones.tabs-a--large
+          .tarjeta.bg-primario-p5.p-4(titulo="Unidireccionalidad, sin interacción directa")
             p.mb-0 En el <em>marketing</em> tradicional, la comunicación fluye únicamente de la empresa hacia el consumidor. Los mensajes se difunden mediante medios como televisión, radio, prensa o publicidad exterior, sin permitir una respuesta inmediata del público. La retroalimentación suele obtenerse posteriormente mediante estudios de mercado o análisis de ventas, lo que limita la interacción y la capacidad de ajustar las estrategias en tiempo real. 
-          .tarjeta.bg-primario-p10.p-4(titulo="Alcance masivo para amplia cobertura")
+          .tarjeta.bg-primario-p5.p-4(titulo="Alcance masivo para amplia cobertura")
             p.mb-0 El <em>marketing</em> tradicional utiliza medios de comunicación masivos para llegar simultáneamente a un gran número de personas. Su objetivo es aumentar la visibilidad y el reconocimiento de la marca mediante campañas dirigidas a audiencias amplias. Aunque logra una gran cobertura, no siempre alcanza de manera precisa al público objetivo, lo que puede disminuir la eficiencia de la comunicación. 
-          .tarjeta.bg-primario-p10.p-4(titulo="Control del mensaje: la empresa define el contenido")
+          .tarjeta.bg-primario-p5.p-4(titulo="Control del mensaje: la empresa define el contenido")
             p.mb-0 En este modelo, la empresa controla completamente el contenido, el formato y el momento de difusión de sus mensajes. La comunicación se planifica para transmitir una imagen consistente de la marca y destacar los beneficios de sus productos o servicios. La participación del consumidor es limitada, por lo que el mensaje permanece prácticamente inalterado durante toda la campaña. 
-          .tarjeta.bg-primario-p10.p-4(titulo="Baja personalización: los mensajes son generales")
+          .tarjeta.bg-primario-p5.p-4(titulo="Baja personalización: los mensajes son generales")
             p.mb-0 Los mensajes del <em>marketing</em> tradicional se diseñan para públicos amplios y diversos, utilizando un mismo contenido para todos los consumidores. Este enfoque facilita la difusión de campañas a gran escala, pero reduce la capacidad de adaptarse a las necesidades, preferencias e intereses de segmentos específicos, limitando la conexión personalizada con cada cliente. 
       .col-sm-4.col-lg-2.d-none.d-xl-block
         figure

@@ -73,7 +73,7 @@
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 8.
-      span Tratamientos de las emociones en marketing
+      span Tratamientos de las emociones en #[em marketing]
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-4
       table
         caption Nota. SENA, (2026).
