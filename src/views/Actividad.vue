@@ -23,7 +23,7 @@ export default {
         '<b> Objetivo:</b> identificar conceptos clave del <em>marketing</em> experiencial, emociones y decisiones de compra mediante la validación de afirmaciones.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,

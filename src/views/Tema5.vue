@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema5/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.d-block Las emociones constituyen un elemento central en el marketing experiencial, influyendo directamente en la percepción y decisiones del consumidor. 
+        p.d-block Las emociones constituyen un elemento central en el #[em marketing] experiencial, influyendo directamente en la percepción y decisiones del consumidor. 
         p.d-block.mb-0 Este capítulo permite comprender su concepto, tipos y tratamiento dentro de las estrategias de #[em marketing], se abordará desde una perspectiva conceptual y aplicada, integrando ejemplos empresariales que evidencian cómo la gestión de emociones fortalece la experiencia del cliente, la conexión con la marca y el posicionamiento en mercados altamente competitivos actuales.
 
     Separador
@@ -25,7 +25,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema5/2.png", alt="" data-aos="zoom-in-down")
       .col-lg-10
-        p Las emociones se definen como respuestas afectivas que experimenta el consumidor frente a estímulos internos o externos, influyendo en su percepción y comportamiento, en el contexto del marketing, las emociones son determinantes en la construcción de experiencias y en la toma de decisiones, ya que conectan al consumidor con la marca a un nivel más profundo (Bagozzi, Gopinath & Nyer, 1999).
+        p Las emociones se definen como respuestas afectivas que experimenta el consumidor frente a estímulos internos o externos, influyendo en su percepción y comportamiento, en el contexto del #[em marketing], las emociones son determinantes en la construcción de experiencias y en la toma de decisiones, ya que conectan al consumidor con la marca a un nivel más profundo (Bagozzi, Gopinath & Nyer, 1999).
         p.mb-0 Las emociones permiten a las marcas generar vínculos significativos con sus clientes. Por ejemplo, Coca-Cola ha desarrollado campañas centradas en la felicidad y la conexión social, logrando posicionarse emocionalmente en diferentes mercados; comprender las emociones permite diseñar experiencias que influyan en la percepción del consumidor, fortaleciendo la recordación y la fidelización hacia la marca.
 
     Separador
@@ -35,7 +35,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-lg-8
-        p Los tipos de emociones en marketing se clasifican en positivas y negativas, cada una con características específicas que influyen en el comportamiento del consumidor. Las emociones positivas, como la alegría y la confianza, favorecen la compra y la fidelización, mientras que las negativas, como la frustración o el miedo, pueden generar rechazo o evitación.
+        p Los tipos de emociones en #[em marketing] se clasifican en positivas y negativas, cada una con características específicas que influyen en el comportamiento del consumidor. Las emociones positivas, como la alegría y la confianza, favorecen la compra y la fidelización, mientras que las negativas, como la frustración o el miedo, pueden generar rechazo o evitación.
         .p-4.bg-img.rounded-4
           p.mb-0 Las marcas utilizan emociones positivas para fortalecer su posicionamiento. Por ejemplo, Disney diseña experiencias orientadas a generar alegría y asombro, consolidando una conexión emocional con sus usuarios; comprender los tipos de emociones permite diseñar experiencias adecuadas al contexto y al público objetivo, optimizando la efectividad de las estrategias de #[em marketing].
       .col-sm-8.col-lg-4
@@ -50,7 +50,7 @@
               figure
                 img.mb-4.mb-lg-0.iw-98(src="@/assets/curso/common/like-orange.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              h5.mb-0 Clave estratégica. 
+              h5.mb-0 Clave estratégica
               p.mb-4.mb-lg-0 Gestionar emociones permite influir en la percepción y decisión del consumidor.
             .col-lg-2.d-none.d-lg-block
               figure
@@ -67,7 +67,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema5/4.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
         .p-4.bg-img.rounded-4.mb-3.bg-img--2
-          p.mb-0 Los tratamientos de las emociones en marketing hacen referencia a las estrategias utilizadas por las marcas para gestionar, provocar o modular las respuestas emocionales del consumidor durante la interacción con la experiencia; estos tratamientos buscan generar emociones positivas, mitigar emociones negativas y construir una relación emocional coherente con la identidad de la marca.
+          p.mb-0 Los tratamientos de las emociones en #[em marketing] hacen referencia a las estrategias utilizadas por las marcas para gestionar, provocar o modular las respuestas emocionales del consumidor durante la interacción con la experiencia; estos tratamientos buscan generar emociones positivas, mitigar emociones negativas y construir una relación emocional coherente con la identidad de la marca.
         p Los tratamientos emocionales se evidencian en el diseño de experiencias que buscan provocar sensaciones específicas. Por ejemplo, Apple gestiona emociones como la sorpresa y la satisfacción mediante lanzamientos de productos cuidadosamente diseñados, generando expectativa y conexión con sus usuarios.
         p.mb-0 El tratamiento adecuado de las emociones permite influir en la percepción del consumidor, fortalecer la experiencia y aumentar la probabilidad de compra, esto implica identificar qué emociones se desean generar y cómo integrarlas en los puntos de contacto con la marca.
 

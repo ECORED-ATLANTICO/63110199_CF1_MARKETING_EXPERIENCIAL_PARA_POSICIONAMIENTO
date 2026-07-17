@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Fundamentos experienciales',
     Description:
-      'El componente aborda los fundamentos del <em>marketing</em> tradicional y <em>experiencial</em>, integrando emociones, categorías de clientes y decisiones de compra. Permite comprender cómo diseñar estrategias centradas en la experiencia del cliente, fortaleciendo el posicionamiento de marca mediante la articulación de elementos sensoriales, emocionales y estratégicos en contextos reales de mercado.',
+      'El componente aborda los fundamentos del <em>marketing</em> tradicional y experiencial, integrando emociones, categorías de clientes y decisiones de compra. Permite comprender cómo diseñar estrategias centradas en la experiencia del cliente, fortaleciendo el posicionamiento de marca mediante la articulación de elementos sensoriales, emocionales y estratégicos en contextos reales de mercado.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -303,7 +303,7 @@ export default {
     {
       termino: 'Audiencia',
       significado:
-        'Conjunto de personas a quienes se dirige un mensaje o una estrategia de marketing.',
+        'Conjunto de personas a quienes se dirige un mensaje o una estrategia de <em>marketing</em>.',
     },
     {
       termino: 'Canal',

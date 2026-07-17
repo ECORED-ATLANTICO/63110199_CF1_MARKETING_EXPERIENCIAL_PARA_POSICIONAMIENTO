@@ -15,7 +15,7 @@
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow
             p Las formas de decisión de compra representan los procesos mediante los cuales los consumidores eligen adquirir productos o servicios, influenciados por factores emocionales y racionales.
-            p.mb-0 Comprender estas formas permite diseñar estrategias de marketing experiencial que impacten efectivamente el comportamiento del consumidor, articulando estímulos que respondan tanto a la lógica como a la emoción, considerando además el contexto, la experiencia previa y la percepción del valor.
+            p.mb-0 Comprender estas formas permite diseñar estrategias de #[em marketing] experiencial que impacten efectivamente el comportamiento del consumidor, articulando estímulos que respondan tanto a la lógica como a la emoción, considerando además el contexto, la experiencia previa y la percepción del valor.
 
     Separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -25,7 +25,7 @@
       .col-lg-8
         p La decisión de compra se define como el proceso mediante el cual el consumidor evalúa diferentes alternativas y selecciona un producto o servicio en función de sus necesidades, percepciones y emociones, este proceso puede estar influenciado tanto por factores racionales como emocionales, dependiendo del contexto y del tipo de producto (Kotler & Keller, 2016).
         .p-4.bg-img.rounded-4
-          p.mb-0 La decisión de compra se ve influenciada por estímulos de marketing, experiencias previas y percepciones de valor. Por ejemplo, Samsung influye en la decisión mediante demostraciones de producto y experiencias en tienda; comprender este proceso permite diseñar experiencias que orienten al consumidor hacia la elección de la marca, integrando estímulos que faciliten la decisión.
+          p.mb-0 La decisión de compra se ve influenciada por estímulos de #[em marketing], experiencias previas y percepciones de valor. Por ejemplo, Samsung influye en la decisión mediante demostraciones de producto y experiencias en tienda; comprender este proceso permite diseñar experiencias que orienten al consumidor hacia la elección de la marca, integrando estímulos que faciliten la decisión.
       .col-10.col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema6/2.png", alt="")
@@ -66,7 +66,7 @@
             .col-lg-8
               h5.mb-1 Pregunta de aplicación
               p.mb-0 Analice la siguiente pregunta a partir de los conceptos estudiados y de su experiencia. Utilice este espacio como una oportunidad para reflexionar sobre su aprendizaje.
-              p.mb-4.mb-lg-0 ¿Qué estrategias podrían incentivar una compra impulsiva en un consumidor que ha identificado un producto como necesario?
+              p.mb-4.mb-lg-0 ¿Qué estrategias podrían incentivar una compra impulsiva? 
             .col-lg-4
               figure
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
@@ -82,6 +82,7 @@
       .col-lg-11
         p Las etapas de la decisión de compra corresponden al proceso que sigue el consumidor desde el reconocimiento de una necesidad hasta la evaluación posterior a la compra, este proceso incluye fases como identificación de la necesidad, búsqueda de información, evaluación de alternativas, decisión de compra y comportamiento postcompra, las cuales permiten comprender cómo el consumidor toma decisiones, estas etapas permiten a las empresas intervenir estratégicamente en cada momento del proceso. 
 
+    p.mb-4 #[strong Etapas de la decisión de compra]. 
     .row.justify-content-center.mb-5
       .col-xl-10.position-relative
         .avatar
@@ -136,7 +137,7 @@
               figure
                 img.mb-4.mb-lg-0.iw-98(src="@/assets/curso/common/like-orange.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              h5.mb-0 Clave estratégica. 
+              h5.mb-0 Clave estratégica
               p.mb-0 Intervenir en cada etapa mejora la experiencia y aumenta la probabilidad de compra.
             .col-lg-2.d-none.d-lg-block
               figure
@@ -159,7 +160,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/9.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
-        p.mb-0 Estas características determinan el diseño de estrategias de marketing. Por ejemplo, Coca-Cola utiliza estímulos visuales y promociones para incentivar compras impulsivas en puntos de venta, estas características permiten adaptar las estrategias a los diferentes tipos de consumidores, optimizando la experiencia y el posicionamiento de la marca.
+        p.mb-0 Estas características determinan el diseño de estrategias de #[em marketing]. Por ejemplo, Coca-Cola utiliza estímulos visuales y promociones para incentivar compras impulsivas en puntos de venta, estas características permiten adaptar las estrategias a los diferentes tipos de consumidores, optimizando la experiencia y el posicionamiento de la marca.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 9.
@@ -190,7 +191,7 @@
             td(colspan="2") Incentivar la compra espontánea mediante estímulos atractivos. 
             td(colspan="2") Generar confianza aportando información clara y argumentos de valor. 
 
-    p.mb-4 Las decisiones de compra pueden responder a procesos emocionales o racionales. Comprender ambos comportamientos permite diseñar estrategias de marketing adaptadas a las necesidades y motivaciones del consumidor.
+    p.mb-4 Las decisiones de compra pueden responder a procesos emocionales o racionales. Comprender ambos comportamientos permite diseñar estrategias de #[em marketing] adaptadas a las necesidades y motivaciones del consumidor.
 
     .row.justify-content-center
       .col-xl-10
@@ -199,7 +200,7 @@
             .col-lg-8
               h5.mb-1 Pregunta de aplicación
               p.mb-0 Analice la siguiente pregunta a partir de los conceptos estudiados y de su experiencia. Utilice este espacio como una oportunidad para reflexionar sobre su aprendizaje.
-              p.mb-4.mb-lg-0 ¿Cómo puede una marca identificar si sus clientes toman decisiones de compra impulsivas o racionales para diseñar estrategias de marketing más efectivas?
+              p.mb-4.mb-lg-0 ¿Cómo puede una marca identificar si sus clientes toman decisiones de compra impulsivas o racionales para diseñar estrategias de #[em marketing] más efectivas?
             .col-lg-4
               figure
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")

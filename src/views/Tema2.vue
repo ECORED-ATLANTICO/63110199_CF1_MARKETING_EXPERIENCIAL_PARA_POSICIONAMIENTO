@@ -46,7 +46,7 @@
               p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente recurso educativo para fortalecer su comprensión del #[em marketing] experiencial. Este presenta el concepto de experiencia de marca y explica cómo influye en la percepción del consumidor.
             .col-4.col-lg-2
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=KZiaKCJybfY" target="_blank")
-                span Ver Video
+                span Video
                 i.fas.fa-play-circle
 
     separador
@@ -68,7 +68,7 @@
       span Características del #[em marketing] experiencial
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-4
       table
-        caption Nota. Elaboración propia con base en Pine y Gilmore, (2026).
+        caption Nota. Elaboración propia con base en Pine y Gilmore, (1998).
         thead
           tr(style="background-color: #DDFAF1")
             th Característica
@@ -84,7 +84,7 @@
             td(colspan="2") Capacidad de generar conexión afectiva entre el consumidor y la marca, utilizando experiencias que evocan sentimientos positivos y fortalecen la relación a largo plazo.
             td(colspan="2") Una campaña publicitaria muestra momentos familiares para asociar la marca con felicidad y cercanía emocional.
           tr(style="background-color: #F6F6F6")
-            td Participacións 
+            td Participación 
             td(colspan="2") Involucramiento activo del cliente en la experiencia, permitiendo que interactúe con la marca y se convierta en parte del proceso de consumo.
             td(colspan="2") Una marca de tecnología permite a los clientes probar productos en tienda antes de comprarlos, generando interacción directa.
           tr
@@ -125,8 +125,8 @@
               figure
                 img.mb-4.mb-lg-0.iw-98(src="@/assets/curso/common/like-orange.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              h5.mb-0 Clave estratégica. 
-              p.mb-0 Intervenir en cada etapa mejora la experiencia y aumenta la probabilidad de compra.
+              h5.mb-0 Clave estratégica
+              p.mb-0 Integrar múltiples dimensiones de experiencia potencia la conexión con el cliente. 
             .col-lg-2.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/common/sin.svg", alt="" data-aos="zoom-in-down")
@@ -143,7 +143,7 @@
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow
             p Los elementos del #[em marketing] experiencial hacen referencia a los recursos y factores que permiten materializar la experiencia del cliente en cada punto de contacto con la marca, estos incluyen el entorno físico, la interacción con el personal, la narrativa de la marca y los estímulos sensoriales que configuran la percepción del consumidor, estos elementos se combinan para crear experiencias coherentes y memorables. 
-            p.mb-0 Por ejemplo, Apple integra diseño minimalista, atención personalizada y ambientación en sus tiendas, generando una experiencia diferenciadora que refuerza su posicionamiento estos elementos permiten operacionalizar los componentes del marketing experiencial, asegurando que la experiencia sea consistente y alineada con la identidad de la marca.
+            p.mb-0 Por ejemplo, Apple integra diseño minimalista, atención personalizada y ambientación en sus tiendas, generando una experiencia diferenciadora que refuerza su posicionamiento estos elementos permiten operacionalizar los componentes del #[em marketing] experiencial, asegurando que la experiencia sea consistente y alineada con la identidad de la marca.
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0.pe-4.ps-2 Elementos del #[em marketing] experiencial
@@ -250,15 +250,15 @@
 
     Separador
     #t_2_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.6 Caso de estudio
+      h2 2.6 Aplicaciones
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-4.col-lg-2
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/9.png", alt="" data-aos="zoom-in-down")
       .col-lg-10
-        p Las aplicaciones del marketing experiencial se enfocan en la implementación de estrategias que buscan generar experiencias significativas en diferentes contextos de interacción con el consumidor, estas aplicaciones abarcan eventos, puntos de venta, entornos digitales y acciones de marca que permiten involucrar activamente al cliente en la experiencia. 
-        p.mb-0 En el ámbito empresarial, estas aplicaciones se evidencian en activaciones de marca, experiencias inmersivas y estrategias de engagement, por ejemplo, Nike ha desarrollado espacios interactivos donde los consumidores pueden probar productos y vivir experiencias alineadas con el rendimiento deportivo; las aplicaciones del marketing experiencial permiten generar diferenciación, fortalecer el posicionamiento y construir relaciones duraderas con los clientes.  
+        p Las aplicaciones del #[em marketing] experiencial se enfocan en la implementación de estrategias que buscan generar experiencias significativas en diferentes contextos de interacción con el consumidor, estas aplicaciones abarcan eventos, puntos de venta, entornos digitales y acciones de marca que permiten involucrar activamente al cliente en la experiencia. 
+        p.mb-0 En el ámbito empresarial, estas aplicaciones se evidencian en activaciones de marca, experiencias inmersivas y estrategias de #[em engagement], por ejemplo, Nike ha desarrollado espacios interactivos donde los consumidores pueden probar productos y vivir experiencias alineadas con el rendimiento deportivo; las aplicaciones del #[em marketing] experiencial permiten generar diferenciación, fortalecer el posicionamiento y construir relaciones duraderas con los clientes.  
         
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0.pe-4.ps-2 Aplicaciones del #[em marketing] experiencial
@@ -279,7 +279,7 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema2/10.png", alt="")
 
-    p.mb-4 Aunque se desarrollan en contextos diferentes, estas aplicaciones forman parte de una estrategia integral de marketing experiencial orientada a generar experiencias memorables, fortalecer la percepción de la marca y construir relaciones duraderas con los consumidores.
+    p.mb-4 Aunque se desarrollan en contextos diferentes, estas aplicaciones forman parte de una estrategia integral de #[em marketing] experiencial orientada a generar experiencias memorables, fortalecer la percepción de la marca y construir relaciones duraderas con los consumidores.
 
     .row.justify-content-center
       .col-xl-10
@@ -289,7 +289,7 @@
               figure
                 img.mb-4.mb-lg-0.iw-98(src="@/assets/curso/common/like-orange.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              h5.mb-0 Clave estratégica. 
+              h5.mb-0 Clave estratégica
               p.mb-0 Las aplicaciones deben generar interacción activa y coherente con la marca. 
             .col-lg-2.d-none.d-lg-block
               figure
@@ -305,8 +305,8 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/11.png", alt="" data-aos="zoom-in-down")
       .col-lg-9
         .p-4.bg-img.rounded-4.bg-img--6.mb-3
-          p.mb-0.pe-lg-5 Las ventajas del marketing experiencial radican en su capacidad para generar conexiones emocionales profundas entre la marca y el consumidor, lo que incrementa la recordación, la fidelización y el posicionamiento, a diferencia del marketing tradicional, este enfoque permite construir relaciones significativas basadas en experiencias memorables que trascienden la funcionalidad del producto.
-        p.mb-0 Estas ventajas se reflejan en mayor engagement, diferenciación competitiva y fortalecimiento de la identidad de marca. Desde una perspectiva estratégica, el marketing experiencial permite a las organizaciones adaptarse a consumidores más exigentes, ofreciendo valor agregado a través de la experiencia, esto favorece la lealtad del cliente y la construcción de comunidades alrededor de la marca.
+          p.mb-0.pe-lg-5 Las ventajas del #[em marketing] experiencial radican en su capacidad para generar conexiones emocionales profundas entre la marca y el consumidor, lo que incrementa la recordación, la fidelización y el posicionamiento, a diferencia del #[em marketing] tradicional, este enfoque permite construir relaciones significativas basadas en experiencias memorables que trascienden la funcionalidad del producto.
+        p.mb-0 Estas ventajas se reflejan en mayor #[em engagement], diferenciación competitiva y fortalecimiento de la identidad de marca. Desde una perspectiva estratégica, el #[em marketing] experiencial permite a las organizaciones adaptarse a consumidores más exigentes, ofreciendo valor agregado a través de la experiencia, esto favorece la lealtad del cliente y la construcción de comunidades alrededor de la marca.
 
     .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center
@@ -325,7 +325,7 @@
     #t_2_8.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.8 Teorías
 
-    p.z-2.mb-4 Las teorías del marketing experiencial se fundamentan en modelos que integran dimensiones sensoriales, emocionales y cognitivas del consumidor, entre las más relevantes se encuentra la teoría de la economía de la experiencia propuesta por Pine y Gilmore, así como los módulos estratégicos experienciales de Schmitt, los cuales explican cómo las experiencias influyen en la percepción y comportamiento del cliente (Schmitt, 1999; Pine & Gilmore, 1998).
+    p.z-2.mb-4 Las teorías del #[em marketing] experiencial se fundamentan en modelos que integran dimensiones sensoriales, emocionales y cognitivas del consumidor, entre las más relevantes se encuentra la teoría de la economía de la experiencia propuesta por Pine y Gilmore, así como los módulos estratégicos experienciales de Schmitt, los cuales explican cómo las experiencias influyen en la percepción y comportamiento del cliente (Schmitt, 1999; Pine & Gilmore, 1998).
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -367,7 +367,7 @@
               figure
                 img.mb-4.mb-lg-0.iw-98(src="@/assets/curso/common/like-orange.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              h5.mb-0 Clave estratégica. 
+              h5.mb-0 Clave estratégica
               p.mb-0 Las teorías permiten diseñar experiencias integrales y estratégicas.
             .col-lg-2.d-none.d-lg-block
               figure
@@ -377,7 +377,7 @@
     #t_2_9.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.9 Principios
 
-    p.z-2.mb-4 Los principios del marketing experiencial constituyen lineamientos estratégicos que orientan el diseño y ejecución de experiencias centradas en el cliente, estos principios incluyen la orientación a la experiencia, la coherencia en los puntos de contacto, la integración de estímulos sensoriales y la generación de valor emocional, permitiendo construir relaciones significativas con el consumidor.
+    p.z-2.mb-4 Los principios del #[em marketing] experiencial constituyen lineamientos estratégicos que orientan el diseño y ejecución de experiencias centradas en el cliente, estos principios incluyen la orientación a la experiencia, la coherencia en los puntos de contacto, la integración de estímulos sensoriales y la generación de valor emocional, permitiendo construir relaciones significativas con el consumidor.
             
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0.pe-4.ps-2 Principios del #[em marketing] experiencial
@@ -424,7 +424,7 @@
               figure
                 img.mb-4.mb-lg-0.iw-98(src="@/assets/curso/common/like-orange.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              h5.mb-0 Clave estratégica. 
+              h5.mb-0 Clave estratégica
               p.mb-0 La coherencia en la experiencia fortalece la percepción de la marca. 
             .col-lg-2.d-none.d-lg-block
               figure

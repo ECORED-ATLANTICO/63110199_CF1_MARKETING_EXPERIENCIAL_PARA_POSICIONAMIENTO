@@ -60,7 +60,7 @@
             .col-lg-8
               h5.mb-1 Pregunta de aplicación
               p.mb-0 Analice la siguiente pregunta a partir de los conceptos estudiados y de su experiencia. Utilice este espacio como una oportunidad para reflexionar sobre su aprendizaje.
-              p.mb-4.mb-lg-0 ¿Cómo puede una marca identificar si sus clientes toman decisiones de compra impulsivas o racionales para diseñar estrategias de marketing más efectivas?
+              p.mb-4.mb-lg-0 ¿Cómo puede una empresa utilizar la clasificación de clientes para mejorar sus estrategias? 
             .col-lg-4
               figure
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
@@ -93,8 +93,8 @@
               h5.mb-1 8 tipos de clientes y cómo atenderlos
               p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente recurso educativo para profundizar en la temática abordada. En este se presenta una clasificación de los diferentes tipos de clientes que pueden encontrarse en los procesos de atención, describiendo sus comportamientos, actitudes y formas de interacción.
             .col-4.col-lg-2
-              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank")
-                span Ver Video
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Ypc9fCF4A3M" target="_blank")
+                span Enlace
                 i.fas.fa-play-circle
 
     .row.justify-content-center.mb-4.mb-lg-5
