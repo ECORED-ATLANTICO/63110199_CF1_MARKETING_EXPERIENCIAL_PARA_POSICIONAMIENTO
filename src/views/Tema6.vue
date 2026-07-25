@@ -7,24 +7,23 @@
         span 6
       h1 Formas de decisión de compra impulsiva y racional
 
-    .mt-5.pt-4
-      .fullwidth-bg.fullwidth-bg--1
-      img(data-aos="fade-up")(src="@/assets/curso/tema6/1.png", alt="").z-2
-      
-      .row.justify-content-center.z-2
-        .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-          div.banner-text.shadow
-            p Las formas de decisión de compra representan los procesos mediante los cuales los consumidores eligen adquirir productos o servicios, influenciados por factores emocionales y racionales.
-            p.mb-0 Comprender estas formas permite diseñar estrategias de #[em marketing] experiencial que impacten efectivamente el comportamiento del consumidor, articulando estímulos que respondan tanto a la lógica como a la emoción, considerando además el contexto, la experiencia previa y la percepción del valor.
+    img(data-aos="fade-up")(src="@/assets/curso/tema6/1.png", alt="").z-2
+    
+    .row.justify-content-center.z-2
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text.shadow
+          p Las formas de decisión de compra representan los procesos mediante los cuales los consumidores eligen adquirir productos o servicios, influenciados por factores emocionales y racionales.
+          p.mb-0 Comprender estas formas permite diseñar estrategias de #[em marketing] experiencial que impacten efectivamente el comportamiento del consumidor, articulando estímulos que respondan tanto a la lógica como a la emoción, considerando además el contexto, la experiencia previa y la percepción del valor.
 
     Separador
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.1 Definición
 
+    .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
         p La decisión de compra se define como el proceso mediante el cual el consumidor evalúa diferentes alternativas y selecciona un producto o servicio en función de sus necesidades, percepciones y emociones, este proceso puede estar influenciado tanto por factores racionales como emocionales, dependiendo del contexto y del tipo de producto (Kotler & Keller, 2016).
-        .p-4.bg-img.rounded-4
+        .p-4.bg-img.rounded-4.mb-4.mb-lg-0
           p.mb-0 La decisión de compra se ve influenciada por estímulos de #[em marketing], experiencias previas y percepciones de valor. Por ejemplo, Samsung influye en la decisión mediante demostraciones de producto y experiencias en tienda; comprender este proceso permite diseñar experiencias que orienten al consumidor hacia la elección de la marca, integrando estímulos que faciliten la decisión.
       .col-10.col-sm-8.col-lg-4
         figure
@@ -34,7 +33,7 @@
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.2 Tipos
 
-    p.mb-4 Los tipos de decisión de compra se clasifican principalmente en impulsiva y racional, cada una con características específicas que determinan el comportamiento del consumidor. La compra impulsiva se caracteriza por ser rápida, emocional y poco planificada, mientras que la compra racional implica análisis, comparación y evaluación de alternativas.
+    p.mb-4.z-2 Los tipos de decisión de compra se clasifican principalmente en impulsiva y racional, cada una con características específicas que determinan el comportamiento del consumidor. La compra impulsiva se caracteriza por ser rápida, emocional y poco planificada, mientras que la compra racional implica análisis, comparación y evaluación de alternativas.
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -54,9 +53,9 @@
             .col-lg-8
               h5.mb-1 ¿Por qué compramos? La psicología del consumidor, explicada
               p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente recurso educativo para profundizar en la temática abordada. En este se analiza cómo las emociones influyen en las decisiones de compra y por qué el comportamiento del consumidor va más allá de un proceso exclusivamente racional.
-            .col-4.col-lg-2
+            .col-sm-6.col-lg-2
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=seukB-NRnC8" target="_blank")
-                span Enlace
+                span Ir al video
                 i.fas.fa-play-circle
 
     .row.justify-content-center
@@ -148,12 +147,15 @@
     #t_6_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.4 Características
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema6/8.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.d-block Las características de las decisiones de compra impulsiva y racional permiten diferenciar el comportamiento del consumidor según el tipo de decisión que realiza, la compra impulsiva se caracteriza por ser emocional, rápida y poco planificada, mientras que la compra racional se basa en el análisis, la comparación y la evaluación de alternativas (Solomon, 2018).
+    .bg-secundario-s10.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg-auto
+          figure
+            img(src='@/assets/curso/tema6/8.png', alt='')
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") Las características de las decisiones de compra impulsiva y racional permiten diferenciar el comportamiento del consumidor según el tipo de decisión que realiza, la compra impulsiva se caracteriza por ser emocional, rápida y poco planificada, mientras que la compra racional se basa en el análisis, la comparación y la evaluación de alternativas (Solomon, 2018).
+
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .d-none.d-lg-block.col-lg-1
@@ -233,7 +235,7 @@
             td Efectividad 
             td(colspan="2") Permite optimizar las acciones de #[em marketing] al dirigir mensajes y estímulos adecuados según el tipo de decisión del consumidor, aumentando el impacto y la probabilidad de conversión. 
             td(colspan="2") Una marca adapta su comunicación para destacar beneficios emocionales o racionales según el tipo de cliente al que se dirige. 
-          tr
+          tr(style="background-color: #F6F6F6")
             td Experiencia 
             td(colspan="2") Facilita el diseño de experiencias más coherentes con el proceso de decisión del cliente, mejorando la interacción y satisfacción durante la compra. 
             td(colspan="2") Una tienda guía al cliente con asesoría personalizada en decisiones complejas, mejorando su experiencia de compra. 
@@ -254,7 +256,7 @@
               p.mb-4.mb-lg-0 Lo invitamos a consultar el anexo para ampliar sus conocimientos sobre comportamiento del consumidor.
             .col-4.col-lg-2
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Comportamiento_del_consumidor_Solomon.pdf')" target="_blank")
-                span Ver Anexo
+                span Anexo
                 i.fas.fa-play-circle
 
     .row.justify-content-center.mb-4.z-2

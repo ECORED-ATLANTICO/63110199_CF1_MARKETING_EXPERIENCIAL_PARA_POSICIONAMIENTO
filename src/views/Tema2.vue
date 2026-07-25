@@ -20,12 +20,14 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Definición
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema2/2.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 El #[em marketing] experiencial se define como un enfoque estratégico que busca generar experiencias significativas y memorables en el consumidor, integrando estímulos emocionales, sensoriales y cognitivos en la interacción con la marca, este modelo prioriza la vivencia del cliente como elemento central del posicionamiento, superando la lógica funcional del producto (Schmitt, 1999).
+    .bg-secundario-s10.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") El #[em marketing] experiencial se define como un enfoque estratégico que busca generar experiencias significativas y memorables en el consumidor, integrando estímulos emocionales, sensoriales y cognitivos en la interacción con la marca, este modelo prioriza la vivencia del cliente como elemento central del posicionamiento, superando la lógica funcional del producto (Schmitt, 1999).
+        .col-lg-5
+          figure
+            img(src='@/assets/curso/tema2/2.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .d-none.d-lg-block.col-lg-1
@@ -44,9 +46,9 @@
             .col-lg-8
               h5.mb-1 ¿Qué es #[em marketing] experiencial?
               p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente recurso educativo para fortalecer su comprensión del #[em marketing] experiencial. Este presenta el concepto de experiencia de marca y explica cómo influye en la percepción del consumidor.
-            .col-4.col-lg-2
+            .col-sm-6.col-lg-2
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=KZiaKCJybfY" target="_blank")
-                span Video
+                span Ir al video
                 i.fas.fa-play-circle
 
     separador
@@ -58,7 +60,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-4.col-lg-2
         figure
-          img.mb-4.mb-lg-0(src="@/assets/curso/tema2/4.png", alt="" data-aos="zoom-in-down")
+          img.mb-4.mb-lg-0(src="@/assets/curso/tema2/3.png", alt="" data-aos="zoom-in-down")
       .col-lg-10
         .p-4.bg-img.bg-img--2.rounded-4
           p.mb-0 Entre sus principales características se encuentran la multisensorialidad, la emocionalidad, la participación del cliente y la creación de valor simbólico. Por ejemplo, Disney diseña experiencias que combinan narrativa, ambientación y servicio, logrando una conexión profunda con sus visitantes, estas características permiten construir relaciones duraderas con los consumidores, fortaleciendo el posicionamiento y la fidelización.
@@ -111,9 +113,9 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
         figure
-          img.mb-4.mb-lg-0(src="@/assets/curso/tema2/5.png", alt="" data-aos="zoom-in-down")
+          img.mb-4.mb-lg-0(src="@/assets/curso/tema2/4.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p.mb-0 Los componentes del #[em marketing] experiencial corresponden a los elementos estructurales que permiten diseñar experiencias significativas para el consumidor. Estos se orientan a integrar dimensiones sensoriales, emocionales, cognitivas y relacionales, con el propósito de generar conexiones profundas con la marca. A diferencia del #[em marketing] tradicional, estos componentes priorizan la vivencia del cliente como eje central de la estrategia (Schmitt, 1999).
+        p Los componentes del #[em marketing] experiencial corresponden a los elementos estructurales que permiten diseñar experiencias significativas para el consumidor. Estos se orientan a integrar dimensiones sensoriales, emocionales, cognitivas y relacionales, con el propósito de generar conexiones profundas con la marca. A diferencia del #[em marketing] tradicional, estos componentes priorizan la vivencia del cliente como eje central de la estrategia (Schmitt, 1999).
         .p-4.bg-img.rounded-4
           p.mb-0 Los componentes se articulan en torno a módulos experienciales como sentir, pensar, actuar y relacionar. Por ejemplo, IKEA diseña sus tiendas para que los clientes interactúen con los productos, vivan espacios simulados y construyan una experiencia completa antes de la compra. Estos componentes permiten estructurar experiencias coherentes en todos los puntos de contacto, su adecuada integración fortalece el posicionamiento de la marca y genera diferenciación sostenible en el mercado.
 
@@ -135,21 +137,19 @@
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.4 Elementos
 
-    .mt-5.pt-4
-      .fullwidth-bg.fullwidth-bg--1
-      img(data-aos="fade-up")(src="@/assets/curso/tema2/5.png", alt="").z-2
-      
-      .row.justify-content-center.z-2
-        .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-          div.banner-text.shadow
-            p Los elementos del #[em marketing] experiencial hacen referencia a los recursos y factores que permiten materializar la experiencia del cliente en cada punto de contacto con la marca, estos incluyen el entorno físico, la interacción con el personal, la narrativa de la marca y los estímulos sensoriales que configuran la percepción del consumidor, estos elementos se combinan para crear experiencias coherentes y memorables. 
-            p.mb-0 Por ejemplo, Apple integra diseño minimalista, atención personalizada y ambientación en sus tiendas, generando una experiencia diferenciadora que refuerza su posicionamiento estos elementos permiten operacionalizar los componentes del #[em marketing] experiencial, asegurando que la experiencia sea consistente y alineada con la identidad de la marca.
+    img(data-aos="fade-up")(src="@/assets/curso/tema2/5.png", alt="").z-2
+    
+    .row.justify-content-center.z-2
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text.shadow
+          p Los elementos del #[em marketing] experiencial hacen referencia a los recursos y factores que permiten materializar la experiencia del cliente en cada punto de contacto con la marca, estos incluyen el entorno físico, la interacción con el personal, la narrativa de la marca y los estímulos sensoriales que configuran la percepción del consumidor, estos elementos se combinan para crear experiencias coherentes y memorables. 
+          p.mb-0 Por ejemplo, Apple integra diseño minimalista, atención personalizada y ambientación en sus tiendas, generando una experiencia diferenciadora que refuerza su posicionamiento estos elementos permiten operacionalizar los componentes del #[em marketing] experiencial, asegurando que la experiencia sea consistente y alineada con la identidad de la marca.
 
-    .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
+    .bg-title.p-3.rounded-5.pe-5.mb-4.z-2(data-aos="fade-down-right")
       h5.mb-0.pe-4.ps-2 Elementos del #[em marketing] experiencial
 
     .fullwidth-bg.fullwidth-bg--2
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/6.png", alt="" data-aos="zoom-in-down")
@@ -168,12 +168,14 @@
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.5 Decálogo
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema2/7.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 El decálogo del #[em marketing] experiencial reúne un conjunto de orientaciones estratégicas que guían la creación de experiencias significativas para el consumidor, estas directrices buscan asegurar que las acciones de la marca estén centradas en el cliente, integrando aspectos emocionales, sensoriales y relacionales que fortalezcan la conexión con el consumidor y su percepción de valor (Schmitt, 1999).
+    .bg-primario-p5.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") El decálogo del #[em marketing] experiencial reúne un conjunto de orientaciones estratégicas que guían la creación de experiencias significativas para el consumidor, estas directrices buscan asegurar que las acciones de la marca estén centradas en el cliente, integrando aspectos emocionales, sensoriales y relacionales que fortalezcan la conexión con el consumidor y su percepción de valor (Schmitt, 1999).
+        .col-lg-5
+          figure
+            img(src='@/assets/curso/tema2/7.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .d-none.d-lg-block.col-lg-1
@@ -389,28 +391,28 @@
             .col-lg-6.mb-4.mb-lg-0
               h4 Orientación a la experiencia
               p.mb-0 Este principio implica diseñar todas las acciones de #[em marketing] teniendo como eje central la vivencia del cliente, más allá del producto o servicio ofrecido. La organización debe comprender cómo el consumidor percibe, siente e interactúa en cada momento, asegurando que cada contacto genere una experiencia significativa. Su aplicación estratégica permite diferenciar la marca al enfocarse en lo que el cliente vive, no solo en lo que compra.
-            .col-10.col-lg-4
+            .col-sm-10.col-lg-4
               figure
                 img(src='@/assets/curso/tema2/13.png', alt='')
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               h4 Coherencia en los puntos de contacto
               p.mb-0 Hace referencia a la consistencia entre todos los momentos de interacción del cliente con la marca, incluyendo canales físicos, digitales y humanos. Cada punto de contacto debe transmitir el mismo mensaje, valores e identidad, evitando contradicciones que afecten la percepción del consumidor. Estratégicamente, la coherencia fortalece la confianza, mejora la experiencia global y contribuye al posicionamiento claro y sólido de la marca. 
-            .col-10.col-lg-4
+            .col-sm-10.col-lg-4
               figure
                 img(src='@/assets/curso/tema2/14.png', alt='')
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               h4 Integración de estímulos sensoriales
               p.mb-0 Este principio se basa en la incorporación planificada de estímulos que activen los sentidos del consumidor, como elementos visuales, auditivos, olfativos, táctiles o gustativos. Su objetivo es enriquecer la experiencia y generar mayor impacto emocional y recordación. Desde una perspectiva estratégica, la integración sensorial permite intensificar la percepción del cliente y diferenciar la experiencia frente a otras marcas en el mercado. 
-            .col-10.col-lg-4
+            .col-sm-10.col-lg-4
               figure
                 img(src='@/assets/curso/tema2/15.png', alt='')
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               h4 Generación de valor emocional 
               p.mb-0 Consiste en crear experiencias que no solo satisfacen necesidades funcionales, sino que también generan emociones positivas y significativas en el consumidor. Este valor emocional influye en la percepción de la marca, la fidelización y la decisión de compra. Estratégicamente, permite construir relaciones duraderas, ya que el cliente no solo recuerda lo que adquirió, sino cómo se sintió durante la experiencia. 
-            .col-10.col-lg-4
+            .col-sm-10.col-lg-4
               figure
                 img(src='@/assets/curso/tema2/16.png', alt='')
 
@@ -465,7 +467,7 @@
           h5.text-center Participación
           p.text-center.mb-0 El involucramiento del cliente en la experiencia permite generar interacción activa, fortaleciendo la conexión con la marca y aumentando su recordación significativa.
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-4
       .col-xl-10
         .p-4.bg-img.bg-img--1.rounded-4.bg-acento-a5.py-xl-0
           .row.justify-content-center.align-items-center

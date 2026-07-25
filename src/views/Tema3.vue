@@ -11,7 +11,7 @@
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
         p La interrelación entre el #[em marketing] experiencial y el #[em marketing] sensorial permite comprender cómo los estímulos dirigidos a los sentidos influyen en la construcción de experiencias significativas. 
-        .p-4.bg-img.rounded-4
+        .p-4.bg-img.rounded-4.mb-4.mb-lg-0
           p.mb-0 Este capítulo aborda la integración de ambos enfoques como base para diseñar estrategias más efectivas, se desarrollará mediante el análisis de características, relaciones y aplicaciones, apoyado en ejemplos empresariales que evidencian cómo la percepción sensorial fortalece la experiencia del cliente y el posicionamiento de marca.
 
       .col-sm-8.col-lg-4
@@ -22,14 +22,12 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.1 Características
 
-    .mt-5.pt-4
-      .fullwidth-bg.fullwidth-bg--1
-      img(data-aos="fade-up")(src="@/assets/curso/tema3/2.png", alt="").z-2
-      
-      .row.justify-content-center.z-2
-        .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-          div.banner-text.shadow.mb-4
-            p.mb-0 La interrelación entre el #[em marketing] experiencial y sensorial se caracteriza por la multisensorialidad, que implica la activación simultánea de varios sentidos del consumidor, permitiendo construir experiencias más completas y envolventes. A su vez, la intensidad perceptiva aumenta el impacto de estas experiencias en la mente del cliente, favoreciendo la recordación y diferenciación. Estos elementos permiten que la experiencia no solo sea percibida, sino también interiorizada, influyendo de manera directa en la forma en que el consumidor interpreta la marca en el mercado.
+    img(data-aos="fade-up")(src="@/assets/curso/tema3/2.png", alt="").z-2
+    
+    .row.justify-content-center.z-2
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text.shadow.mb-4
+          p.mb-0 La interrelación entre el #[em marketing] experiencial y sensorial se caracteriza por la multisensorialidad, que implica la activación simultánea de varios sentidos del consumidor, permitiendo construir experiencias más completas y envolventes. A su vez, la intensidad perceptiva aumenta el impacto de estas experiencias en la mente del cliente, favoreciendo la recordación y diferenciación. Estos elementos permiten que la experiencia no solo sea percibida, sino también interiorizada, influyendo de manera directa en la forma en que el consumidor interpreta la marca en el mercado.
 
     p.mb-4 Por otra parte, la coherencia asegura que todos los estímulos y experiencias estén alineados con la identidad y el mensaje de la marca, evitando contradicciones en la percepción del consumidor. Asimismo, la emocionalidad permite generar un vínculo afectivo que fortalece la relación entre el cliente y la marca, facilitando la fidelización. Estos principios, integrados estratégicamente, permiten diseñar experiencias significativas que impactan el comportamiento del consumidor y contribuyen al posicionamiento en entornos altamente competitivos actuales.
 
@@ -47,12 +45,14 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Relaciones
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema3/3.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 Las relaciones entre el #[em marketing] experiencial y el #[em marketing] sensorial se establecen a partir de la forma en que los estímulos sensoriales contribuyen a la construcción de experiencias significativas. El #[em marketing] sensorial actúa como un componente operativo dentro del #[em marketing] experiencial, facilitando la creación de vivencias que impactan en la percepción y comportamiento del consumidor (Krishna, 2012).
+    .bg-secundario-s10.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg-5
+          figure
+            img(src='@/assets/curso/tema3/3.png', alt='')
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") Las relaciones entre el #[em marketing] experiencial y el #[em marketing] sensorial se establecen a partir de la forma en que los estímulos sensoriales contribuyen a la construcción de experiencias significativas. El #[em marketing] sensorial actúa como un componente operativo dentro del #[em marketing] experiencial, facilitando la creación de vivencias que impactan en la percepción y comportamiento del consumidor (Krishna, 2012).
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .d-none.d-lg-block.col-lg-1
@@ -64,9 +64,9 @@
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
       h5.mb-0.pe-4.ps-2 Relación entre los estímulos sensoriales y la experiencia del consumidor
 
-    .row.mb-4
+    .row.mb-5
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-5.h-100
+        .tarjeta-numerada.color-primario.p-4.h-100
           .tarjeta-numerada__numero
             .h2 1
           p.text-center 
@@ -74,7 +74,7 @@
           p.mb-0.text-center Los estímulos sensoriales activan respuestas emocionales en el consumidor, generando experiencias más significativas que fortalecen el vínculo afectivo con la marca.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-5.h-100
+        .tarjeta-numerada.color-secundario.p-4.h-100
           .tarjeta-numerada__numero
             .h2 2
           p.text-center 
@@ -82,7 +82,7 @@
           p.mb-0.text-center Los estímulos sensoriales influyen en la forma en que el consumidor interpreta la marca, construyendo una imagen diferenciada en su mente.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-5.h-100
+        .tarjeta-numerada.color-acento-contenido.p-4.h-100
           .tarjeta-numerada__numero
             .h2 3
           p.text-center 
@@ -90,7 +90,7 @@
           p.mb-0.text-center Las experiencias diseñadas por la marca influyen en el comportamiento del consumidor, orientando sus decisiones de compra y acciones futuras frente a la marca.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-terciario.p-5.h-100
+        .tarjeta-numerada.color-terciario.p-4.h-100
           .tarjeta-numerada__numero
             .h2 4
           p.text-center 
@@ -178,7 +178,7 @@
           p.mb-0 Las implementaciones del #[em marketing] experiencial y sensorial corresponden a la ejecución práctica de estrategias diseñadas para generar experiencias significativas mediante la activación de los sentidos, estas implementaciones implican la planificación de acciones específicas en los diferentes puntos de contacto con el cliente, garantizando coherencia y consistencia en la experiencia (Krishna, 2012).
         p.mb-0 En la práctica, las implementaciones incluyen el diseño de ambientes, la capacitación del personal y la integración de tecnologías que potencien la experiencia, estas implementaciones permiten materializar la experiencia diseñada, asegurando que los estímulos sensoriales generen el impacto esperado en el consumidor, su éxito depende de la alineación entre estrategia, ejecución y percepción del cliente.
 
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-4
       .col-xl-10
         .p-4.bg-img.bg-img--4.rounded-4
           .row.align-items-center
@@ -188,9 +188,9 @@
             .col-lg-8
               h5.mb-1 #[em Marketing] sensorial
               p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente recurso educativo para profundizar en la temática abordada. En este se explica qué es el #[em marketing] sensorial y cómo las empresas integran estímulos sensoriales para influir en el comportamiento del consumidor.
-            .col-4.col-lg-2
+            .col-sm-6.col-lg-2
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=yFDMX6j-cNQ" target="_blank")
-                span Enlace
+                span Ir al video
                 i.fas.fa-play-circle
 
     .row.justify-content-center
@@ -211,12 +211,14 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.5 Complementación
 
-    .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema3/7.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 La complementación entre el #[em marketing] experiencial y el #[em marketing] sensorial se refiere a la forma en que ambos enfoques se integran para potenciar la construcción de experiencias significativas. Mientras el #[em marketing] experiencial define la estructura de la experiencia, el #[em marketing] sensorial aporta los estímulos que intensifican la percepción del consumidor, generando mayor impacto emocional y recordación.
+    .bg-primario-p5.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") La complementación entre el #[em marketing] experiencial y el #[em marketing] sensorial se refiere a la forma en que ambos enfoques se integran para potenciar la construcción de experiencias significativas. Mientras el #[em marketing] experiencial define la estructura de la experiencia, el #[em marketing] sensorial aporta los estímulos que intensifican la percepción del consumidor, generando mayor impacto emocional y recordación.
+        .col-lg-5
+          figure
+            img(src='@/assets/curso/tema3/7.png', alt='')
 
     p.mb-4 Esta complementación se evidencia cuando las marcas diseñan experiencias coherentes que combinan estímulos sensoriales con interacción significativa. Por ejemplo, Lush utiliza aromas, texturas y demostraciones en vivo para complementar la experiencia del cliente en tienda, esta complementación permite crear experiencias más completas y diferenciadoras, fortaleciendo el posicionamiento y la fidelización; su efectividad depende de la integración adecuada de los estímulos con la propuesta de valor de la marca.
 
@@ -230,7 +232,7 @@
       .col-lg-9
         AcordionA(tipo="b" clase-tarjeta="tarjeta bg-secundario-s10").mb-5
           div(titulo="<em>Marketing</em> experiencial")
-            p.ms-5.ms-lg-0 El #[em marketing] experiencial diseña la vivencia del cliente en cada punto de contacto con la marca. Para ello, integra el recorrido del consumidor, la interacción con la organización y los espacios donde ocurre la experiencia, buscando generar conexiones memorables y diferenciadoras.
+            p El #[em marketing] experiencial diseña la vivencia del cliente en cada punto de contacto con la marca. Para ello, integra el recorrido del consumidor, la interacción con la organización y los espacios donde ocurre la experiencia, buscando generar conexiones memorables y diferenciadoras.
             p.mb-0 Elementos clave
             ul
               li 
@@ -244,7 +246,7 @@
                 | Espacios.
 
           div(titulo="<em>Marketing</em> sensorial")
-            p.ms-5.ms-lg-0 El #[em marketing] sensorial incorpora estímulos dirigidos a los sentidos para enriquecer la experiencia del consumidor. Mediante recursos visuales, sonoros, olfativos y táctiles, fortalece la percepción de la marca y favorece una mayor recordación y conexión emocional. 
+            p El #[em marketing] sensorial incorpora estímulos dirigidos a los sentidos para enriquecer la experiencia del consumidor. Mediante recursos visuales, sonoros, olfativos y táctiles, fortalece la percepción de la marca y favorece una mayor recordación y conexión emocional. 
             p.mb-0 Elementos clave
             ul
               li 
@@ -261,10 +263,10 @@
                 | Tacto. 
 
           div(titulo="Integración estratégica")
-            p.ms-5.ms-lg-0 La integración del #[em marketing] experiencial y el #[em marketing] sensorial permite diseñar experiencias coherentes, donde cada interacción y cada estímulo contribuyen a fortalecer la percepción de la marca y generar un mayor impacto en el consumidor. 
+            p La integración del #[em marketing] experiencial y el #[em marketing] sensorial permite diseñar experiencias coherentes, donde cada interacción y cada estímulo contribuyen a fortalecer la percepción de la marca y generar un mayor impacto en el consumidor. 
 
           div(titulo="Impacto en el consumidor")
-            p.ms-5.ms-lg-0 La combinación de ambos enfoques da lugar a experiencias memorables que fortalecen el vínculo entre el consumidor y la marca. Como resultado, se incrementa la satisfacción, la confianza, la recordación y la fidelización, favoreciendo relaciones más sólidas y duraderas. 
+            p La combinación de ambos enfoques da lugar a experiencias memorables que fortalecen el vínculo entre el consumidor y la marca. Como resultado, se incrementa la satisfacción, la confianza, la recordación y la fidelización, favoreciendo relaciones más sólidas y duraderas. 
 
     .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center

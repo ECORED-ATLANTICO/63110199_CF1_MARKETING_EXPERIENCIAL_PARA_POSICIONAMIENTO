@@ -7,13 +7,15 @@
         span 5
       h1 Emociones
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema5/1.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.d-block Las emociones constituyen un elemento central en el #[em marketing] experiencial, influyendo directamente en la percepción y decisiones del consumidor. 
-        p.d-block.mb-0 Este capítulo permite comprender su concepto, tipos y tratamiento dentro de las estrategias de #[em marketing], se abordará desde una perspectiva conceptual y aplicada, integrando ejemplos empresariales que evidencian cómo la gestión de emociones fortalece la experiencia del cliente, la conexión con la marca y el posicionamiento en mercados altamente competitivos actuales.
+    .bg-secundario-s10(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg-auto
+          figure
+            img(src='@/assets/curso/tema5/1.png', alt='')
+        .col-lg
+          .p-4
+            p.d-block Las emociones constituyen un elemento central en el #[em marketing] experiencial, influyendo directamente en la percepción y decisiones del consumidor. 
+            p.d-block.mb-0 Este capítulo permite comprender su concepto, tipos y tratamiento dentro de las estrategias de #[em marketing], se abordará desde una perspectiva conceptual y aplicada, integrando ejemplos empresariales que evidencian cómo la gestión de emociones fortalece la experiencia del cliente, la conexión con la marca y el posicionamiento en mercados altamente competitivos actuales.
 
     Separador
 
@@ -36,7 +38,7 @@
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-lg-8
         p Los tipos de emociones en #[em marketing] se clasifican en positivas y negativas, cada una con características específicas que influyen en el comportamiento del consumidor. Las emociones positivas, como la alegría y la confianza, favorecen la compra y la fidelización, mientras que las negativas, como la frustración o el miedo, pueden generar rechazo o evitación.
-        .p-4.bg-img.rounded-4
+        .p-4.bg-img.rounded-4.mb-4.mb-lg-0
           p.mb-0 Las marcas utilizan emociones positivas para fortalecer su posicionamiento. Por ejemplo, Disney diseña experiencias orientadas a generar alegría y asombro, consolidando una conexión emocional con sus usuarios; comprender los tipos de emociones permite diseñar experiencias adecuadas al contexto y al público objetivo, optimizando la efectividad de las estrategias de #[em marketing].
       .col-sm-8.col-lg-4
         figure

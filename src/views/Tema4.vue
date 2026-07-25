@@ -70,19 +70,17 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Tipología
 
-    .mt-5.pt-4
-      .fullwidth-bg.fullwidth-bg--1
-      img(data-aos="fade-up")(src="@/assets/curso/tema4/3.png", alt="").z-2
-      
-      .row.justify-content-center.z-2
-        .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-          div.banner-text.shadow.mb-4
-            p.mb-0 La tipología de clientes se refiere a la categorización de los consumidores según sus características psicológicas, comportamientos de compra y relación con la marca, esta tipología permite comprender de manera más profunda las motivaciones y expectativas del cliente, facilitando el diseño de experiencias más relevantes (Solomon, 2018).
+    img(data-aos="fade-up")(src="@/assets/curso/tema4/3.png", alt="").z-2
+    
+    .row.justify-content-center.z-2
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text.shadow.mb-4
+          p.mb-0 La tipología de clientes se refiere a la categorización de los consumidores según sus características psicológicas, comportamientos de compra y relación con la marca, esta tipología permite comprender de manera más profunda las motivaciones y expectativas del cliente, facilitando el diseño de experiencias más relevantes (Solomon, 2018).
 
     p Entre las tipologías más comunes se encuentran clientes racionales, emocionales, impulsivos y analíticos, cada uno con características específicas que influyen en su comportamiento. Por ejemplo, Zara adapta sus estrategias para atender tanto a clientes impulsivos como racionales mediante diseño y rotación de productos.
     p.mb-4.mb-lg-5 La tipología permite diseñar experiencias diferenciadas que respondan a las necesidades específicas de cada tipo de cliente, fortaleciendo la conexión con la marca.
 
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-4
       .col-xl-10
         .p-4.bg-img.bg-img--4.rounded-4
           .row.align-items-center
@@ -92,9 +90,9 @@
             .col-lg-8
               h5.mb-1 8 tipos de clientes y cómo atenderlos
               p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente recurso educativo para profundizar en la temática abordada. En este se presenta una clasificación de los diferentes tipos de clientes que pueden encontrarse en los procesos de atención, describiendo sus comportamientos, actitudes y formas de interacción.
-            .col-4.col-lg-2
+            .col-sm-6.col-lg-2
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Ypc9fCF4A3M" target="_blank")
-                span Enlace
+                span Ir al video
                 i.fas.fa-play-circle
 
     .row.justify-content-center.mb-4.mb-lg-5

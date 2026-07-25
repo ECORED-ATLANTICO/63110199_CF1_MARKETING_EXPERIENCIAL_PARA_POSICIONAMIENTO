@@ -7,15 +7,13 @@
         span 1
       h1 #[em Marketing] tradicional
 
-    .mt-5.pt-4
-      .fullwidth-bg.fullwidth-bg--1
-      img(data-aos="fade-up")(src="@/assets/curso/tema1/1.png", alt="").z-2
-      
-      .row.justify-content-center.z-2
-        .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-          div.banner-text.shadow
-            p El <em>marketing</em> tradicional constituye la base conceptual sobre la cual se han estructurado las estrategias comerciales clásicas, enfocándose en la promoción de productos y servicios mediante medios masivos. 
-            p.mb-0 Su comprensión permite al aprendiz identificar sus componentes, elementos y aplicaciones en contextos reales, este enfoque será abordado desde una perspectiva conceptual y aplicada, integrando ejemplos empresariales que faciliten la transición hacia modelos centrados en la experiencia del cliente.
+    img(data-aos="fade-up")(src="@/assets/curso/tema1/1.png", alt="").z-2
+    
+    .row.justify-content-center.z-2
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text.shadow
+          p El <em>marketing</em> tradicional constituye la base conceptual sobre la cual se han estructurado las estrategias comerciales clásicas, enfocándose en la promoción de productos y servicios mediante medios masivos. 
+          p.mb-0 Su comprensión permite al aprendiz identificar sus componentes, elementos y aplicaciones en contextos reales, este enfoque será abordado desde una perspectiva conceptual y aplicada, integrando ejemplos empresariales que faciliten la transición hacia modelos centrados en la experiencia del cliente.
 
     separador
     
@@ -23,12 +21,12 @@
       h2 1.1 Definición
 
     .fullwidth-bg.fullwidth-bg--2
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2.mt-5.pt-4
+    .row.justify-content-center.align-items-center.z-2.mt-5.pt-4
       .col-lg-8
         p El <em>marketing</em> tradicional se define como el conjunto de estrategias orientadas a promocionar productos o servicios mediante canales convencionales, con una comunicación predominantemente unidireccional, este enfoque busca impactar audiencias amplias a través de medios como televisión, radio y prensa, priorizando la difusión del mensaje sobre la interacción con el consumidor (Kotler & Keller, 2016).
         .p-4.bg-img.mb-3
           p.mb-0 En términos aplicados, el #[em marketing] tradicional se fundamenta en la identificación de necesidades del mercado y la creación de mensajes persuasivos que incentiven la compra, empresas como Coca-Cola han consolidado su posicionamiento mediante campañas masivas que refuerzan atributos emocionales y funcionales del producto.
-        p.mb-0 Desde una perspectiva estratégica, este enfoque permite generar reconocimiento de marca a gran escala, fortalecer el posicionamiento en el mercado y alcanzar amplios segmentos de consumidores mediante mensajes estandarizados. Aunque presenta limitaciones en cuanto a la personalización y la retroalimentación con el consumidor, su integración con enfoques actuales, como el marketing experiencial, amplía las posibilidades de interacción, favorece la construcción de relaciones más cercanas con los clientes y contribuye a generar experiencias de mayor valor para la marca y el consumidor. 
+        p.mb-4.mb-lg-0 Desde una perspectiva estratégica, este enfoque permite generar reconocimiento de marca a gran escala, fortalecer el posicionamiento en el mercado y alcanzar amplios segmentos de consumidores mediante mensajes estandarizados. Aunque presenta limitaciones en cuanto a la personalización y la retroalimentación con el consumidor, su integración con enfoques actuales, como el marketing experiencial, amplía las posibilidades de interacción, favorece la construcción de relaciones más cercanas con los clientes y contribuye a generar experiencias de mayor valor para la marca y el consumidor. 
 
       .col-sm-8.col-lg-4
         figure
@@ -104,29 +102,31 @@
               figure
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
 
-    Separadoe
+    Separador
 
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.4 Elementos
 
-    .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-4.mb-lg-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/intro.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 Los elementos del #[em marketing] tradicional hacen referencia a los factores operativos que intervienen en la ejecución de las estrategias, incluyendo el mercado objetivo, los canales de comunicación y los mensajes publicitarios, estos elementos permiten operacionalizar los componentes estratégicos y garantizar que la propuesta de valor llegue de manera efectiva al consumidor (Stanton, Etzel & Walker, 2007).
+    .bg-secundario-s10.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg-auto
+          figure
+            img(src='@/assets/curso/tema1/7.png', alt='')
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") Los elementos del #[em marketing] tradicional hacen referencia a los factores operativos que intervienen en la ejecución de las estrategias, incluyendo el mercado objetivo, los canales de comunicación y los mensajes publicitarios, estos elementos permiten operacionalizar los componentes estratégicos y garantizar que la propuesta de valor llegue de manera efectiva al consumidor (Stanton, Etzel & Walker, 2007).
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .d-none.d-lg-block.col-lg-1
         figure
-          img.mb-4.mb-lg-0(src="@/assets/curso/tema1/7.png", alt="" data-aos="zoom-in-down")
+          img.mb-4.mb-lg-0(src="@/assets/curso/intro-icon.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
         p.mb-0 Los elementos del #[em marketing] tradicional se enfocan en identificar segmentos de mercado y definir mensajes claros, por ejemplo, Nestlé adapta sus campañas según el público objetivo, utilizando distintos medios tradicionales para comunicar beneficios específicos de sus productos, dichos elementos permiten alinear la comunicación con los objetivos comerciales; no obstante, su enfoque limitado en la interacción ha llevado a integrar nuevos elementos relacionados con la experiencia y la participación del cliente.
   
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
       span Elementos del #[em marketing] tradicional
-    .tabla-a.color-acento-contenido.tabla-a--text-left
+    .tabla-a.color-acento-contenido.tabla-a--text-left.mb-4
       table
         caption Nota. Elaboración propia con base en Stanton #[em et al]. (2007).
         thead
@@ -227,15 +227,18 @@
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
 
     Separador 
+
     #t_1_7.titulo-segundo.color-acento-contenido(data-aos="flip-up")
         h2 1.7 Teorías
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema1/17.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 Las teorías del #[em marketing] tradicional proporcionan el sustento conceptual que orienta la comprensión del comportamiento del mercado y la formulación de estrategias comerciales, estas teorías se han desarrollado a partir de enfoques económicos y administrativos, destacando la teoría de la oferta y la demanda, la teoría del comportamiento del consumidor y la teoría de la ventaja competitiva (Kotler & Keller, 2016).
+    .bg-primario-p5.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg-auto
+          figure
+            img(src='@/assets/curso/tema1/17.png', alt='')
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") Las teorías del #[em marketing] tradicional proporcionan el sustento conceptual que orienta la comprensión del comportamiento del mercado y la formulación de estrategias comerciales, estas teorías se han desarrollado a partir de enfoques económicos y administrativos, destacando la teoría de la oferta y la demanda, la teoría del comportamiento del consumidor y la teoría de la ventaja competitiva (Kotler & Keller, 2016).
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
       h5.mb-0.pe-4.ps-2 Principales teorías del #[em marketing] tradicional
@@ -248,7 +251,7 @@
               h4 Oferta y demanda
               p.mb-0 Explica la relación dinámica entre la cantidad de productos que las empresas están dispuestas a ofrecer y la cantidad que los consumidores desean adquirir en el mercado. Esta interacción determina variables clave como el precio y el nivel de producción, configurando el equilibrio del mercado.
 
-            .col-10.col-lg-5
+            .col-sm-10.col-lg-5
               figure
                 img(src='@/assets/curso/tema1/18.png', alt='')
           .row.justify-content-center.align-items-center
@@ -256,14 +259,14 @@
               h4 Comportamiento del consumidor
               p.mb-0 Analiza los procesos mediante los cuales los individuos seleccionan, adquieren y utilizan productos o servicios para satisfacer sus necesidades. Este enfoque considera factores psicológicos, sociales y culturales que influyen en la toma de decisiones, aunque en el #[em marketing] tradicional se aborda principalmente desde una perspectiva racional y funcional.
 
-            .col-10.col-lg-5
+            .col-sm-10.col-lg-5
               figure
                 img(src='@/assets/curso/tema1/19.png', alt='')
           .row.justify-content-center.align-items-center
             .col-lg-6.mb-4.mb-lg-0
               h4 Ventaja competitiva
               p.mb-0 Se centra en la capacidad de una empresa para diferenciarse de sus competidores mediante atributos únicos que le permitan destacarse en el mercado. Estos atributos pueden estar relacionados con el precio, la calidad, la innovación o la eficiencia en la producción y distribución.
-            .col-10.col-lg-5
+            .col-sm-10.col-lg-5
               figure
                 img(src='@/assets/curso/tema1/20.png', alt='')
 
