@@ -102,7 +102,7 @@
                 img(src="@/assets/curso/tema6/6.svg", alt="alt").img100
             .col
               h5.mb-0 Etapa 2. 
-              p.mb-0 #[strong Información]: el consumidor busca información relevante para entender opciones disponibles mercado.
+              p.mb-0 #[strong Información]: el consumidor busca información relevante para entender opciones disponibles en elmercado.
         .crd.crd--avatarHorizontal.py-3.bg-s5
           .row.align-items-center
             .col-auto
@@ -110,7 +110,7 @@
                 img(src="@/assets/curso/tema6/5.svg", alt="alt").img100
             .col
               h5.mb-0 Etapa 3. 
-              p.mb-0 #[strong Evaluación]: el consumidor compara alternativas según criterios como precio calidad beneficio.
+              p.mb-0 #[strong Evaluación]: el consumidor compara alternativas según criterios como precio, calidad y beneficio.
         .crd.crd--avatarHorizontal.py-3.bg-p5
           .row.align-items-center
             .col-auto
@@ -283,11 +283,10 @@
             .col-sm-8.col-lg-8.p-4
               p Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer sus conocimientos en la temática relacionada con las decisiones de compras estratégicas.
               TarjetaAudio.mb-3(
-                texto="“La idea de negocio como base del desarrollo empresarial”"
-                :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                texto="Decisiones de compra estratégicas"
+                :audio="require('@/assets/audio/decisiones-de-compra-estrategicas.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
-
 
 </template>
 

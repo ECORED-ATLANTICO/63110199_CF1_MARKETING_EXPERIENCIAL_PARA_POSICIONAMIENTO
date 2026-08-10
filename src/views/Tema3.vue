@@ -276,7 +276,7 @@
             .col-lg-8
               h5.mb-1 Pregunta de aplicación
               p.mb-0 Analice la siguiente pregunta a partir de los conceptos estudiados y de su experiencia. Utilice este espacio como una oportunidad para reflexionar sobre su aprendizaje.
-              p.mb-4.mb-lg-0 ¿Cómo puede una marca complementar la experiencia del cliente mediante estímulos sensoriales para fortalecer su posicionamiento y fidelización?
+              p.mb-4.mb-lg-0 ¿Cómo puede una marca complementar la experiencia del cliente mediante estímulos sensoriales?
             .col-lg-4
               figure
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
