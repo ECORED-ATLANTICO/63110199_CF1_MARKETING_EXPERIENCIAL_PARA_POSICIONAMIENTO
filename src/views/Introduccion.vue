@@ -7,6 +7,14 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    .bg-secundario-s10.mb-4
+      .row.align-items-center
+        .col-lg-5
+          figure
+            img(src="@/assets/curso/intro.png")
+        .col-lg-7
+          p.mb-0.p-4 El componente formativo aborda los fundamentos del #[em marketing] tradicional y su evolución hacia el #[em marketing] experiencial, integrando conceptos relacionados con la experiencia del cliente, las emociones y las decisiones de compra. Este enfoque permite comprender cómo las marcas construyen posicionamiento a partir de la interacción con los consumidores y la generación de valor más allá del producto.
     
     .bg-secundario-s10.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center

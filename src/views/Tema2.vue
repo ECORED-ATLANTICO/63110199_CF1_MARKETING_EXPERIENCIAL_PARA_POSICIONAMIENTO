@@ -48,7 +48,7 @@
               p.mb-4.mb-lg-0 Lo invitamos a consultar el siguiente recurso educativo para fortalecer su comprensión del #[em marketing] experiencial. Este presenta el concepto de experiencia de marca y explica cómo influye en la percepción del consumidor.
             .col-sm-6.col-lg-2
               a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=KZiaKCJybfY" target="_blank")
-                span Ir al video
+                span Consultar Video
                 i.fas.fa-play-circle
 
     separador
@@ -128,7 +128,7 @@
                 img.mb-4.mb-lg-0.iw-98(src="@/assets/curso/common/like-orange.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
               h5.mb-0 Clave estratégica
-              p.mb-0 Integrar múltiples dimensiones de experiencia potencia la conexión con el cliente. 
+              p.mb-0 Integrar múltiples dimensiones de experiencia potencia la conexión con el cliente.
             .col-lg-2.d-none.d-lg-block
               figure
                 img(src="@/assets/curso/common/sin.svg", alt="" data-aos="zoom-in-down")

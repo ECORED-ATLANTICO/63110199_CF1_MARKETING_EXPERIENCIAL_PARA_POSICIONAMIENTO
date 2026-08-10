@@ -23,10 +23,10 @@
     .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.align-items-center.z-2.mt-5.pt-4
       .col-lg-8
-        p El <em>marketing</em> tradicional se define como el conjunto de estrategias orientadas a promocionar productos o servicios mediante canales convencionales, con una comunicación predominantemente unidireccional, este enfoque busca impactar audiencias amplias a través de medios como televisión, radio y prensa, priorizando la difusión del mensaje sobre la interacción con el consumidor (Kotler & Keller, 2016).
+        p El <em>marketing</em> tradicional se define como el conjunto de estrategias orientadas a promocionar productos o servicios mediante canales convencionales, con una comunicación predominantemente unidireccional. Este enfoque busca impactar audiencias amplias a través de medios como la televisión, la radio y la prensa, priorizando la difusión del mensaje sobre la interacción con el consumidor (Kotler & Keller, 2016). 
         .p-4.bg-img.mb-3
-          p.mb-0 En términos aplicados, el #[em marketing] tradicional se fundamenta en la identificación de necesidades del mercado y la creación de mensajes persuasivos que incentiven la compra, empresas como Coca-Cola han consolidado su posicionamiento mediante campañas masivas que refuerzan atributos emocionales y funcionales del producto.
-        p.mb-4.mb-lg-0 Desde una perspectiva estratégica, este enfoque permite generar reconocimiento de marca a gran escala, fortalecer el posicionamiento en el mercado y alcanzar amplios segmentos de consumidores mediante mensajes estandarizados. Aunque presenta limitaciones en cuanto a la personalización y la retroalimentación con el consumidor, su integración con enfoques actuales, como el marketing experiencial, amplía las posibilidades de interacción, favorece la construcción de relaciones más cercanas con los clientes y contribuye a generar experiencias de mayor valor para la marca y el consumidor. 
+          p.mb-0 En términos aplicados, el #[em marketing]  tradicional se fundamenta en la identificación de las necesidades del mercado y en la creación de mensajes persuasivos que incentiven la compra. Empresas como Coca-Cola han consolidado su posicionamiento mediante campañas masivas que fortalecen el reconocimiento de la marca y resaltan atributos emocionales y funcionales de sus productos, logrando una amplia cobertura y una comunicación consistente con su público objetivo.
+        p.mb-0 Desde una perspectiva estratégica, este enfoque permite generar reconocimiento de marca a gran escala, fortalecer el posicionamiento en el mercado y alcanzar amplios 6 segmentos de consumidores mediante mensajes estandarizados. Aunque presenta limitaciones en cuanto a la personalización y la retroalimentación con el consumidor, su integración con enfoques actuales, como el #[em marketing]   experiencial, amplía las posibilidades de interacción, favorece la construcción de relaciones más cercanas con los clientes y contribuye a generar experiencias de mayor valor para la marca y el consumidor. 
 
       .col-sm-8.col-lg-4
         figure
@@ -354,7 +354,7 @@
                 img.mb-4.mb-lg-0.iw-108(src="@/assets/curso/tema1/12.svg", alt="" data-aos="zoom-in-down")
             .col-lg-8
               h5.mb-1 Segmentación, mercado meta y posicionamiento.
-              p.mb-4.mb-lg-0 Lo invitamos a consultar el anexo Kotler, P., & Armstrong, G. (2017). Segmentación, mercado meta y posicionamiento para ampliar sus conocimientos sobre la segmentación de mercados, los mercados meta y posicionamiento.
+              p.mb-4.mb-lg-0 Lo invitamos a consultar el anexo Segmentación, mercado meta y posicionamiento para ampliar sus conocimientos sobre la segmentación de mercados, los mercados meta y posicionamiento.
             .col-4.col-lg-2
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Segmentacion-mercado-meta-posicionamiento.pdf')" target="_blank")
                 span Anexo
