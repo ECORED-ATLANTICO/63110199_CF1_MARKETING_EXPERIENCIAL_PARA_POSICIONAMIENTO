@@ -12,7 +12,7 @@
       .col-lg-8
         p La interrelación entre el #[em marketing] experiencial y el #[em marketing] sensorial permite comprender cómo los estímulos dirigidos a los sentidos influyen en la construcción de experiencias significativas. 
         .p-4.bg-img.rounded-4.mb-4.mb-lg-0
-          p.mb-0 Este capítulo aborda la integración de ambos enfoques como base para diseñar estrategias más efectivas, se desarrollará mediante el análisis de características, relaciones y aplicaciones, apoyado en ejemplos empresariales que evidencian cómo la percepción sensorial fortalece la experiencia del cliente y el posicionamiento de marca.
+          p.mb-0 Este capítulo aborda la integración de ambos enfoques como base para diseñar estrategias más efectivas; se desarrollará mediante el análisis de características, relaciones y aplicaciones, apoyado en ejemplos empresariales que evidencian cómo la percepción sensorial fortalece la experiencia del cliente y el posicionamiento de marca.
 
       .col-sm-8.col-lg-4
         figure
@@ -36,7 +36,7 @@
         .bg-img.bg-img--3.rounded-5.bg-acento-a5.p-4.py-xl-0
           .row.align-items-center
             .col-lg-8
-              p.mb-4.mb-lg-0 #[strong Ejemplo aplicado]. Starbucks utiliza aromas, música y ambientación para generar una experiencia coherente con su propuesta de valor; estas características permiten amplificar el impacto de la experiencia, logrando mayor recordación y conexión emocional, acá la integración sensorial se convierte en un diferenciador clave en mercados altamente competitivos.
+              p.mb-4.mb-lg-0 #[strong Ejemplo aplicado]. Starbucks utiliza aromas, música y ambientación para generar una experiencia coherente con su propuesta de valor; estas características permiten amplificar el impacto de la experiencia, logrando mayor recordación y conexión emocional; acá la integración sensorial se convierte en un diferenciador clave en mercados altamente competitivos.
             .col-lg-4
               figure
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
@@ -62,7 +62,7 @@
         p.mb-0 En la práctica, estas relaciones se evidencian en estrategias donde los sentidos se utilizan para reforzar la experiencia. Por ejemplo, Abercrombie & Fitch ha utilizado fragancias distintivas en sus tiendas para generar identidad y recordación; desde un enfoque estratégico, la relación entre ambos enfoques permite diseñar experiencias más completas y diferenciadoras, integrando percepción y emoción como elementos clave del posicionamiento.
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h5.mb-0.pe-4.ps-2 Relación entre los estímulos sensoriales y la experiencia del consumidor
+      h3.mb-0.pe-4.ps-2 Relación entre los estímulos sensoriales y la experiencia del consumidor
 
     .row.mb-5
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -113,14 +113,14 @@
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.3 Aplicaciones
 
-    p.mb-4 Las aplicaciones de la interrelación entre el #[em marketing] experiencial y el #[em marketing] sensorial se evidencian en la implementación de estrategias que integran estímulos sensoriales para enriquecer la experiencia del cliente, estas aplicaciones buscan generar percepciones positivas y memorables, influyendo directamente en el comportamiento del consumidor y en su decisión de compra.
+    p.mb-4 Las aplicaciones de la interrelación entre el #[em marketing] experiencial y el #[em marketing] sensorial se evidencian en la implementación de estrategias que integran estímulos sensoriales para enriquecer la experiencia del cliente. Estas aplicaciones buscan generar percepciones positivas y memorables, influyendo directamente en el comportamiento del consumidor y en su decisión de compra.
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema3/5.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Estas aplicaciones se desarrollan en puntos de venta, eventos y entornos digitales, por ejemplo, Nike utiliza espacios interactivos donde se combinan elementos visuales, sonoros y táctiles para generar experiencias inmersivas que refuerzan su posicionamiento. Desde una perspectiva estratégica, estas aplicaciones permiten diferenciar la marca mediante experiencias sensoriales que fortalecen la conexión emocional y aumentan la recordación. Su implementación debe ser coherente con la identidad de la marca y las expectativas del cliente.
+        p.mb-0 Estas aplicaciones se desarrollan en puntos de venta, eventos y entornos digitales; por ejemplo, Nike utiliza espacios interactivos donde se combinan elementos visuales, sonoros y táctiles para generar experiencias inmersivas que refuerzan su posicionamiento. Desde una perspectiva estratégica, estas aplicaciones permiten diferenciar la marca mediante experiencias sensoriales que fortalecen la conexión emocional y aumentan la recordación. Su implementación debe ser coherente con la identidad de la marca y las expectativas del cliente.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 6.
@@ -175,8 +175,8 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema3/6.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
         .p-4.bg-img.rounded-4.bg-img--2.mb-3
-          p.mb-0 Las implementaciones del #[em marketing] experiencial y sensorial corresponden a la ejecución práctica de estrategias diseñadas para generar experiencias significativas mediante la activación de los sentidos, estas implementaciones implican la planificación de acciones específicas en los diferentes puntos de contacto con el cliente, garantizando coherencia y consistencia en la experiencia (Krishna, 2012).
-        p.mb-0 En la práctica, las implementaciones incluyen el diseño de ambientes, la capacitación del personal y la integración de tecnologías que potencien la experiencia, estas implementaciones permiten materializar la experiencia diseñada, asegurando que los estímulos sensoriales generen el impacto esperado en el consumidor, su éxito depende de la alineación entre estrategia, ejecución y percepción del cliente.
+          p.mb-0 Las implementaciones del #[em marketing] experiencial y sensorial corresponden a la ejecución práctica de estrategias diseñadas para generar experiencias significativas mediante la activación de los sentidos; estas implementaciones implican la planificación de acciones específicas en los diferentes puntos de contacto con el cliente, garantizando coherencia y consistencia en la experiencia (Krishna, 2012).
+        p.mb-0 En la práctica, las implementaciones incluyen el diseño de ambientes, la capacitación del personal y la integración de tecnologías que potencien la experiencia; estas implementaciones permiten materializar la experiencia diseñada, asegurando que los estímulos sensoriales generen el impacto esperado en el consumidor. Su éxito depende de la alineación entre estrategia, ejecución y percepción del cliente.
 
     .row.justify-content-center.z-2.mb-4
       .col-xl-10
@@ -220,10 +220,10 @@
           figure
             img(src='@/assets/curso/tema3/7.png', alt='')
 
-    p.mb-4 Esta complementación se evidencia cuando las marcas diseñan experiencias coherentes que combinan estímulos sensoriales con interacción significativa. Por ejemplo, Lush utiliza aromas, texturas y demostraciones en vivo para complementar la experiencia del cliente en tienda, esta complementación permite crear experiencias más completas y diferenciadoras, fortaleciendo el posicionamiento y la fidelización; su efectividad depende de la integración adecuada de los estímulos con la propuesta de valor de la marca.
+    p.mb-4 Esta complementación se evidencia cuando las marcas diseñan experiencias coherentes que combinan estímulos sensoriales con interacción significativa. Por ejemplo, Lush utiliza aromas, texturas y demostraciones en vivo para complementar la experiencia del cliente en tienda; esta complementación permite crear experiencias más completas y diferenciadoras, fortaleciendo el posicionamiento y la fidelización; su efectividad depende de la integración adecuada de los estímulos con la propuesta de valor de la marca.
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h5.mb-0.pe-4.ps-2 Integración estratégica del #[em marketing] experiencial y el #[em marketing] sensorial
+      h3.mb-0.pe-4.ps-2 Integración estratégica del #[em marketing] experiencial y el #[em marketing] sensorial
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-10.col-md-6.col-lg-3.d-none.d-lg-block
@@ -285,13 +285,13 @@
     #t_3_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.6 Variables
 
-    p.z-2.mb-4 Las variables en la interrelación del #[em marketing] experiencial y sensorial corresponden a los factores que influyen en la percepción y comportamiento del consumidor durante la experiencia de marca, estas variables incluyen elementos como el entorno, los estímulos sensoriales, el contexto cultural y las características del consumidor, los cuales determinan la efectividad de la estrategia (Krishna, 2012).
+    p.z-2.mb-4 Las variables en la interrelación del #[em marketing] experiencial y sensorial corresponden a los factores que influyen en la percepción y comportamiento del consumidor durante la experiencia de marca; estas variables incluyen elementos como el entorno, los estímulos sensoriales, el contexto cultural y las características del consumidor, los cuales determinan la efectividad de la estrategia (Krishna, 2012).
 
     .p-4.bg-img.rounded-4.mb-4
-      p.mb-0 En la práctica, estas variables deben ser analizadas y gestionadas para garantizar una experiencia coherente. Por ejemplo, Zara ajusta iluminación, música y disposición de productos según el tipo de tienda y ubicación, adaptándose al perfil del consumidor; la gestión de variables permite optimizar la experiencia del cliente, asegurando que los estímulos generen las respuestas esperadas, su adecuada interpretación facilita la toma de decisiones en el diseño de experiencias.
+      p.mb-0 En la práctica, estas variables deben ser analizadas y gestionadas para garantizar una experiencia coherente. Por ejemplo, Zara ajusta iluminación, música y disposición de productos según el tipo de tienda y ubicación, adaptándose al perfil del consumidor; la gestión de variables permite optimizar la experiencia del cliente, asegurando que los estímulos generen las respuestas esperadas; su adecuada interpretación facilita la toma de decisiones en el diseño de experiencias.
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h5.mb-0.pe-4.ps-2 Variables del #[em marketing] experiencial y #[em marketing] sensorial que influyen en la experiencia del consumidor
+      h3.mb-0.pe-4.ps-2 Variables del #[em marketing] experiencial y #[em marketing] sensorial que influyen en la experiencia del consumidor
     
     .row.justify-content-center.align-items-cente.z-2
       .col-sm-6.col-lg-3

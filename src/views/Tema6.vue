@@ -22,7 +22,7 @@
     .fullwidth-bg.fullwidth-bg--2
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
-        p La decisión de compra se define como el proceso mediante el cual el consumidor evalúa diferentes alternativas y selecciona un producto o servicio en función de sus necesidades, percepciones y emociones, este proceso puede estar influenciado tanto por factores racionales como emocionales, dependiendo del contexto y del tipo de producto (Kotler & Keller, 2016).
+        p La decisión de compra se define como el proceso mediante el cual el consumidor evalúa diferentes alternativas y selecciona un producto o servicio en función de sus necesidades, percepciones y emociones; este proceso puede estar influenciado tanto por factores racionales como emocionales, dependiendo del contexto y del tipo de producto (Kotler & Keller, 2016).
         .p-4.bg-img.rounded-4.mb-4.mb-lg-0
           p.mb-0 La decisión de compra se ve influenciada por estímulos de #[em marketing], experiencias previas y percepciones de valor. Por ejemplo, Samsung influye en la decisión mediante demostraciones de producto y experiencias en tienda; comprender este proceso permite diseñar experiencias que orienten al consumidor hacia la elección de la marca, integrando estímulos que faciliten la decisión.
       .col-10.col-sm-8.col-lg-4
@@ -40,7 +40,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema6/3.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Las marcas diseñan estrategias diferenciadas para cada tipo de decisión. Por ejemplo, Zara incentiva compras impulsivas mediante rotación constante de productos y estímulos visuales en tienda, comprender estos tipos permite diseñar experiencias que respondan a diferentes perfiles de consumidores, optimizando la efectividad de las estrategias de #[em marketing].
+        p.mb-0 Las marcas diseñan estrategias diferenciadas para cada tipo de decisión. Por ejemplo, Zara incentiva compras impulsivas mediante rotación constante de productos y estímulos visuales en tienda; comprender estos tipos permite diseñar experiencias que respondan a diferentes perfiles de consumidores, optimizando la efectividad de las estrategias de #[em marketing].
 
 
     .row.justify-content-center.z-2.mb-4
@@ -79,7 +79,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/7.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
-        p Las etapas de la decisión de compra corresponden al proceso que sigue el consumidor desde el reconocimiento de una necesidad hasta la evaluación posterior a la compra, este proceso incluye fases como identificación de la necesidad, búsqueda de información, evaluación de alternativas, decisión de compra y comportamiento postcompra, las cuales permiten comprender cómo el consumidor toma decisiones, estas etapas permiten a las empresas intervenir estratégicamente en cada momento del proceso. 
+        p Las etapas de la decisión de compra corresponden al proceso que sigue el consumidor desde el reconocimiento de una necesidad hasta la evaluación posterior a la compra. Este proceso incluye fases como identificación de la necesidad, búsqueda de información, evaluación de alternativas, decisión de compra y comportamiento postcompra, las cuales permiten comprender cómo el consumidor toma decisiones. Estas etapas permiten a las empresas intervenir estratégicamente en cada momento del proceso. 
 
     p.mb-4 #[strong Etapas de la decisión de compra]. 
     .row.justify-content-center.mb-5
@@ -154,7 +154,7 @@
             img(src='@/assets/curso/tema6/8.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Las características de las decisiones de compra impulsiva y racional permiten diferenciar el comportamiento del consumidor según el tipo de decisión que realiza, la compra impulsiva se caracteriza por ser emocional, rápida y poco planificada, mientras que la compra racional se basa en el análisis, la comparación y la evaluación de alternativas (Solomon, 2018).
+            p.mb-0(data-aos="fade-up") Las características de las decisiones de compra impulsiva y racional permiten diferenciar el comportamiento del consumidor según el tipo de decisión que realiza; la compra impulsiva se caracteriza por ser emocional, rápida y poco planificada, mientras que la compra racional se basa en el análisis, la comparación y la evaluación de alternativas (Solomon, 2018).
 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
@@ -162,7 +162,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema6/9.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
-        p.mb-0 Estas características determinan el diseño de estrategias de #[em marketing]. Por ejemplo, Coca-Cola utiliza estímulos visuales y promociones para incentivar compras impulsivas en puntos de venta, estas características permiten adaptar las estrategias a los diferentes tipos de consumidores, optimizando la experiencia y el posicionamiento de la marca.
+        p.mb-0 Estas características determinan el diseño de estrategias de #[em marketing]. Por ejemplo, Coca-Cola utiliza estímulos visuales y promociones para incentivar compras impulsivas en puntos de venta; estas características permiten adaptar las estrategias a los diferentes tipos de consumidores, optimizando la experiencia y el posicionamiento de la marca.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 9.
@@ -253,11 +253,11 @@
                 img.mb-4.mb-lg-0.iw-108(src="@/assets/curso/tema1/12.svg", alt="" data-aos="zoom-in-down")
             .col-lg-8
               h5.mb-1 Comportamiento del consumidor
-              p.mb-4.mb-lg-0 Lo invitamos a consultar el anexo para ampliar sus conocimientos sobre comportamiento del consumidor.
+              p.mb-4.mb-lg-0 Para ampliar sus conocimientos sobre el comportamiento del consumidor, consulte el documento disponible en el siguiente enlace.
             .col-4.col-lg-2
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Comportamiento_del_consumidor_Solomon.pdf')" target="_blank")
                 span Anexo
-                i.fas.fa-play-circle
+                i.fas.fa-file-pdf
 
     .row.justify-content-center.mb-4.z-2
       .col-xl-10
@@ -284,6 +284,7 @@
               p Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer sus conocimientos en la temática relacionada con las decisiones de compras estratégicas.
               TarjetaAudio.mb-3(
                 texto="Decisiones de compra estratégicas"
+                tiempo
                 :audio="require('@/assets/audio/decisiones-de-compra-estrategicas.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )

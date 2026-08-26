@@ -13,7 +13,7 @@
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.shadow
           p El <em>marketing</em> tradicional constituye la base conceptual sobre la cual se han estructurado las estrategias comerciales clásicas, enfocándose en la promoción de productos y servicios mediante medios masivos. 
-          p.mb-0 Su comprensión permite al aprendiz identificar sus componentes, elementos y aplicaciones en contextos reales, este enfoque será abordado desde una perspectiva conceptual y aplicada, integrando ejemplos empresariales que faciliten la transición hacia modelos centrados en la experiencia del cliente.
+          p.mb-0 Su comprensión permite al aprendiz identificar sus componentes, elementos y aplicaciones en contextos reales;   este enfoque será abordado desde una perspectiva conceptual y aplicada, integrando ejemplos empresariales que faciliten la transición hacia modelos centrados en la experiencia del cliente.
 
     separador
     
@@ -36,14 +36,14 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.2 Características
 
-    p.mb-4.mb-lg-5 El #[em marketing] tradicional se caracteriza por su orientación al producto, el uso de medios masivos y la comunicación unidireccional, este enfoque prioriza la difusión del mensaje hacia grandes audiencias, manteniendo el control total por parte de la empresa sobre el contenido y los canales utilizados (Armstrong & Kotler, 2017).
+    p.mb-4.mb-lg-5 El #[em marketing] tradicional se caracteriza por su orientación al producto, el uso de medios masivos y la comunicación unidireccional; este enfoque prioriza la difusión del mensaje hacia grandes audiencias, manteniendo el control total por parte de la empresa sobre el contenido y los canales utilizados (Armstrong & Kotler, 2017).
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/3.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Entre sus principales características se encuentran la baja personalización, la segmentación amplia y la medición basada en alcance y frecuencia, empresas como Procter & Gamble han aplicado este modelo para posicionar múltiples marcas mediante campañas estandarizadas en diferentes mercados. Desde una visión estratégica, estas características permiten eficiencia operativa y cobertura, pero limitan la interacción con el cliente, en la actualidad, se complementan con estrategias que buscan mayor conexión emocional y participación del consumidor.
+        p.mb-0 Entre sus principales características se encuentran la baja personalización, la segmentación amplia y la medición basada en alcance y frecuencia; empresas como Procter & Gamble han aplicado este modelo para posicionar múltiples marcas mediante campañas estandarizadas en diferentes mercados. Desde una visión estratégica, estas características permiten eficiencia operativa y cobertura, pero limitan la interacción con el cliente; en la actualidad, se complementan con estrategias que buscan mayor conexión emocional y participación del consumidor.
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0.pe-4.ps-2 Características del #[em marketing] tradicional
@@ -81,7 +81,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3 Componentes
 
-    p.mb-4 Los componentes del #[em marketing] tradicional corresponden a los elementos estructurales que permiten diseñar y ejecutar estrategias orientadas al mercado, estos componentes se articulan principalmente a través de la mezcla de #[em marketing], también conocida como las 4P: producto, precio, plaza y promoción; su adecuada integración permite a las organizaciones responder a las necesidades del consumidor desde una perspectiva funcional y competitiva.
+    p.mb-4 Los componentes del #[em marketing] tradicional corresponden a los elementos estructurales que permiten diseñar y ejecutar estrategias orientadas al mercado; estos componentes se articulan principalmente a través de la mezcla de #[em marketing], también conocida como las 4P: producto, precio, plaza y promoción; su adecuada integración permite a las organizaciones responder a las necesidades del consumidor desde una perspectiva funcional y competitiva.
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Figura 1.
@@ -90,14 +90,14 @@
     img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.svg", alt="La figura 1 describe los componentes del marketing tradicional, conocidos como las 4P: producto, precio, plaza y promoción.")
     figcaption.mb-4 Nota. SENA, (2026).
 
-    p.mb-4 Desde una perspectiva estratégica, los componentes del #[em marketing] tradicional facilitan la estructuración de la oferta y su posicionamiento en el mercado, sin embargo, su enfoque centrado en el producto limita la comprensión profunda del cliente, lo que ha impulsado la evolución hacia modelos más experienciales.
+    p.mb-4 Desde una perspectiva estratégica, los componentes del #[em marketing] tradicional facilitan la estructuración de la oferta y su posicionamiento en el mercado; sin embargo, su enfoque centrado en el producto limita la comprensión profunda del cliente, lo que ha impulsado la evolución hacia modelos más experienciales.
 
     .row.justify-content-center
       .col-xl-10
         .bg-img.bg-img--3.rounded-5.bg-acento-a5.p-4.py-xl-0
           .row.align-items-center
             .col-lg-8
-              p.mb-4.mb-lg-0 #[strong Ejemplo aplicado]. En el ámbito aplicado, cada componente cumple una función específica dentro de la estrategia, por ejemplo, McDonald's gestiona su producto mediante estandarización, su precio con estrategias accesibles, su plaza a través de amplia distribución y su promoción mediante campañas masivas, esta articulación le permite mantener coherencia en mercados globales.
+              p.mb-4.mb-lg-0 #[strong Ejemplo aplicado]. En el ámbito aplicado, cada componente cumple una función específica dentro de la estrategia; por ejemplo, McDonald's gestiona su producto mediante estandarización, su precio con estrategias accesibles, su plaza a través de amplia distribución y su promoción mediante campañas masivas. Esta articulación le permite mantener coherencia en mercados globales.
             .col-lg-4
               figure
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")
@@ -114,14 +114,14 @@
             img(src='@/assets/curso/tema1/7.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Los elementos del #[em marketing] tradicional hacen referencia a los factores operativos que intervienen en la ejecución de las estrategias, incluyendo el mercado objetivo, los canales de comunicación y los mensajes publicitarios, estos elementos permiten operacionalizar los componentes estratégicos y garantizar que la propuesta de valor llegue de manera efectiva al consumidor (Stanton, Etzel & Walker, 2007).
+            p.mb-0(data-aos="fade-up") Los elementos del #[em marketing] tradicional hacen referencia a los factores operativos que intervienen en la ejecución de las estrategias, incluyendo el mercado objetivo, los canales de comunicación y los mensajes publicitarios; estos elementos permiten operacionalizar los componentes estratégicos y garantizar que la propuesta de valor llegue de manera efectiva al consumidor (Stanton, Etzel & Walker, 2007).
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .d-none.d-lg-block.col-lg-1
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/intro-icon.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
-        p.mb-0 Los elementos del #[em marketing] tradicional se enfocan en identificar segmentos de mercado y definir mensajes claros, por ejemplo, Nestlé adapta sus campañas según el público objetivo, utilizando distintos medios tradicionales para comunicar beneficios específicos de sus productos, dichos elementos permiten alinear la comunicación con los objetivos comerciales; no obstante, su enfoque limitado en la interacción ha llevado a integrar nuevos elementos relacionados con la experiencia y la participación del cliente.
+        p.mb-0 Los elementos del #[em marketing] tradicional se enfocan en identificar segmentos de mercado y definir mensajes claros; por ejemplo, Nestlé adapta sus campañas según el público objetivo, utilizando distintos medios tradicionales para comunicar beneficios específicos de sus productos. Dichos elementos permiten alinear la comunicación con los objetivos comerciales; no obstante, su enfoque limitado en la interacción ha llevado a integrar nuevos elementos relacionados con la experiencia y la participación del cliente.
   
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
@@ -177,8 +177,8 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/8.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
         .p-4.bg-img.bg-img--2.rounded-4.mb-3
-          p.mb-0 Las aplicaciones del #[em marketing] tradicional se centran en la implementación de estrategias orientadas a la promoción de productos y servicios en mercados amplios, utilizando medios de comunicación masivos, este enfoque es especialmente efectivo en contextos donde se busca generar reconocimiento de marca, posicionamiento inicial y cobertura significativa en segmentos de consumidores diversos.
-        p En el ámbito empresarial, las aplicaciones del #[em marketing] tradicional se evidencian en campañas publicitarias, lanzamientos de productos y estrategias de comunicación institucional, por ejemplo, Colgate ha utilizado campañas televisivas para reforzar la confianza del consumidor en sus productos, destacando atributos funcionales y beneficios directos.
+          p.mb-0 Las aplicaciones del #[em marketing] tradicional se centran en la implementación de estrategias orientadas a la promoción de productos y servicios en mercados amplios, utilizando medios de comunicación masivos. Este enfoque es especialmente efectivo en contextos donde se busca generar reconocimiento de marca, posicionamiento inicial y cobertura significativa en segmentos de consumidores diversos.
+        p En el ámbito empresarial, las aplicaciones del #[em marketing] tradicional se evidencian en campañas publicitarias, lanzamientos de productos y estrategias de comunicación institucional; por ejemplo, Colgate ha utilizado campañas televisivas para reforzar la confianza del consumidor en sus productos, destacando atributos funcionales y beneficios directos.
         p.mb-0 Desde una perspectiva estratégica, estas aplicaciones permiten alcanzar grandes audiencias en menor tiempo, aunque presentan limitaciones en la segmentación y personalización. Su uso sigue siendo relevante en mercados donde el acceso digital es limitado o donde se requiere impacto masivo.
 
     Separador
@@ -191,12 +191,12 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/9.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
-        p.mb-0 Las ventajas del #[em marketing] tradicional se relacionan con su capacidad de alcanzar audiencias amplias, generar reconocimiento de marca y mantener control sobre el mensaje, este enfoque permite a las empresas comunicar de manera consistente sus propuestas de valor, utilizando canales consolidados que garantizan cobertura y visibilidad.
+        p.mb-0 Las ventajas del #[em marketing] tradicional se relacionan con su capacidad de alcanzar audiencias amplias, generar reconocimiento de marca y mantener control sobre el mensaje; este enfoque permite a las empresas comunicar de manera consistente sus propuestas de valor, utilizando canales consolidados que garantizan cobertura y visibilidad.
 
-    p.mb-5 Entre sus principales ventajas se destacan el alcance masivo, la credibilidad de los medios tradicionales y la facilidad de implementación en estrategias de posicionamiento, estas ventajas permiten eficiencia en la comunicación y fortalecimiento del posicionamiento, sin embargo, su efectividad depende del contexto del mercado y de su integración con otros enfoques más interactivos.
+    p.mb-5 Entre sus principales ventajas se destacan el alcance masivo, la credibilidad de los medios tradicionales y la facilidad de implementación en estrategias de posicionamiento; estas ventajas permiten eficiencia en la comunicación y fortalecimiento del posicionamiento. Sin embargo, su efectividad depende del contexto del mercado y de su integración con otros enfoques más interactivos.
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h5.mb-0.pe-4.ps-2 Ventajas del #[em marketing] tradicional
+      h3.mb-0.pe-4.ps-2 Ventajas del #[em marketing] tradicional
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
@@ -238,10 +238,10 @@
             img(src='@/assets/curso/tema1/17.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Las teorías del #[em marketing] tradicional proporcionan el sustento conceptual que orienta la comprensión del comportamiento del mercado y la formulación de estrategias comerciales, estas teorías se han desarrollado a partir de enfoques económicos y administrativos, destacando la teoría de la oferta y la demanda, la teoría del comportamiento del consumidor y la teoría de la ventaja competitiva (Kotler & Keller, 2016).
+            p.mb-0(data-aos="fade-up") Las teorías del #[em marketing] tradicional proporcionan el sustento conceptual que orienta la comprensión del comportamiento del mercado y la formulación de estrategias comerciales; estas teorías se han desarrollado a partir de enfoques económicos y administrativos, destacando la teoría de la oferta y la demanda, la teoría del comportamiento del consumidor y la teoría de la ventaja competitiva (Kotler & Keller, 2016).
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h5.mb-0.pe-4.ps-2 Principales teorías del #[em marketing] tradicional
+      h3.mb-0.pe-4.ps-2 Principales teorías del #[em marketing] tradicional
 
     .bg-fondo-slider.tarjeta.mb-5
       .p-4.p-lg-5
@@ -298,8 +298,8 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/11.png", alt="" data-aos="zoom-in-down")
       .col-lg-10
-        p Los principios del #[em marketing] tradicional constituyen lineamientos fundamentales que orientan la planificación y ejecución de estrategias comerciales, entre los más relevantes se encuentran la orientación al cliente, la generación de valor, la segmentación del mercado y la coherencia en la comunicación, los cuales permiten estructurar acciones alineadas con los objetivos organizacionales (Armstrong & Kotler, 2017).
-        p.mb-0 En la práctica, estos principios guían la forma en que las empresas interactúan con el mercado, por ejemplo, Nike aplica el principio de orientación al cliente al diseñar productos que responden a necesidades específicas de rendimiento y estilo, reforzando su posicionamiento.
+        p Los principios del #[em marketing] tradicional constituyen lineamientos fundamentales que orientan la planificación y ejecución de estrategias comerciales; entre los más relevantes se encuentran la orientación al cliente, la generación de valor, la segmentación del mercado y la coherencia en la comunicación, los cuales permiten estructurar acciones alineadas con los objetivos organizacionales (Armstrong & Kotler, 2017).
+        p.mb-0 En la práctica, estos principios guían la forma en que las empresas interactúan con el mercado; por ejemplo, Nike aplica el principio de orientación al cliente al diseñar productos que responden a necesidades específicas de rendimiento y estilo, reforzando su posicionamiento.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 2.
@@ -330,7 +330,7 @@
             td(colspan="2") Consistencia entre el mensaje, los canales y la propuesta de valor de la marca, garantizando que la comunicación sea clara y alineada en todos los puntos de contacto.
             td(colspan="2") Una empresa mantiene el mismo tono y mensaje en televisión, radio y punto de venta, reforzando su identidad de marca.
 
-    p.mb-4 Desde un enfoque estratégico, los principios del #[em marketing] tradicional permiten garantizar consistencia y efectividad en la gestión comercial, no obstante, su aplicación actual se complementa con enfoques centrados en la experiencia del cliente.        
+    p.mb-4 Desde un enfoque estratégico, los principios del #[em marketing] tradicional permiten garantizar consistencia y efectividad en la gestión comercial; no obstante, su aplicación actual se complementa con enfoques centrados en la experiencia del cliente.        
 
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
@@ -354,7 +354,7 @@
                 img.mb-4.mb-lg-0.iw-108(src="@/assets/curso/tema1/12.svg", alt="" data-aos="zoom-in-down")
             .col-lg-8
               h5.mb-1 Segmentación, mercado meta y posicionamiento.
-              p.mb-4.mb-lg-0 Lo invitamos a consultar el anexo Segmentación, mercado meta y posicionamiento para ampliar sus conocimientos sobre la segmentación de mercados, los mercados meta y posicionamiento.
+              p.mb-4.mb-lg-0 Para ampliar sus conocimientos sobre la segmentación de mercados, los mercados metan y el posicionamiento, consulte el documento disponible en el siguiente enlace.
             .col-4.col-lg-2
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Segmentacion-mercado-meta-posicionamiento.pdf')" target="_blank")
                 span Anexo
@@ -365,10 +365,10 @@
     #t_1_9.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.9 Leyes
 
-    p.mb-4 Las leyes del #[em marketing] tradicional hacen referencia a principios ampliamente aceptados que orientan la construcción y posicionamiento de las marcas en la mente del consumidor, entre las más reconocidas se encuentran las leyes propuestas por Al Ries y Jack Trout, como la ley del liderazgo, la ley de la categoría y la ley de la percepción, las cuales explican cómo se establecen las ventajas competitivas en el mercado (Ries & Trout, 2001).
+    p.mb-4 Las leyes del #[em marketing] tradicional hacen referencia a principios ampliamente aceptados que orientan la construcción y posicionamiento de las marcas en la mente del consumidor; entre las más reconocidas se encuentran las leyes propuestas por Al Ries y Jack Trout, como la ley del liderazgo, la ley de la categoría y la ley de la percepción, las cuales explican cómo se establecen las ventajas competitivas en el mercado (Ries & Trout, 2001).
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h5.mb-0.pe-4.ps-2 Leyes del #[em marketing] tradicional
+      h3.mb-0.pe-4.ps-2 Leyes del #[em marketing] tradicional
 
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5

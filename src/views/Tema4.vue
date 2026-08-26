@@ -13,7 +13,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.d-block Las categorías de clientes permiten segmentar y comprender a los consumidores según sus características y comportamientos, facilitando el diseño de estrategias de #[em marketing] más efectivas.
-        p.d-block.mb-0 Este capítulo aborda la clasificación y tipología de clientes como base para la personalización de experiencias, su desarrollo se realizará desde un enfoque conceptual y aplicado, integrando ejemplos empresariales que evidencian cómo el conocimiento del cliente fortalece la toma de decisiones y el posicionamiento de la marca.
+        p.d-block.mb-0 Este capítulo aborda la clasificación y tipología de clientes como base para la personalización de experiencias; su desarrollo se realizará desde un enfoque conceptual y aplicado, integrando ejemplos empresariales que evidencian cómo el conocimiento del cliente fortalece la toma de decisiones y el posicionamiento de la marca.
 
     Separador
 
@@ -25,12 +25,13 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/2.svg", alt="" data-aos="zoom-in-down")
       .col-lg-11
-        p La clasificación de clientes consiste en agrupar a los consumidores según criterios específicos como comportamiento, frecuencia de compra, necesidades y nivel de interacción con la marca, esta clasificación permite identificar patrones que facilitan la toma de decisiones estratégicas orientadas al diseño de experiencias personalizadas.
-        p.mb-0 Las empresas clasifican a sus clientes en categorías como frecuentes, ocasionales y potenciales. Por ejemplo, Amazon utiliza datos de comportamiento para segmentar clientes y ofrecer recomendaciones personalizadas, esta clasificación permite optimizar recursos y diseñar estrategias diferenciadas, alineadas con las características de cada grupo de clientes.
+        p La clasificación de clientes consiste en agrupar a los consumidores según criterios específicos como comportamiento, frecuencia de compra, necesidades y nivel de interacción con la marca; esta clasificación permite identificar patrones que facilitan la toma de decisiones estratégicas orientadas al diseño de experiencias personalizadas.
+        p.mb-0 Las empresas clasifican a sus clientes en categorías como frecuentes, ocasionales y potenciales. Por ejemplo, Amazon utiliza datos de comportamiento para segmentar clientes y ofrecer recomendaciones personalizadas; esta clasificación permite optimizar recursos y diseñar estrategias diferenciadas, alineadas con las características de cada grupo de clientes.
 
     .bg-title.p-3.rounded-5.pe-5.mb-5(data-aos="fade-down-right")
-      h5.mb-0.pe-4.ps-2 Clasificación de clientes
-
+      h3.mb-0.pe-4.ps-2 Clasificación de clientes
+    
+    
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-sm-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .rounded-4.p-4.bg-img.bg-img--5.h-100
@@ -75,7 +76,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.shadow.mb-4
-          p.mb-0 La tipología de clientes se refiere a la categorización de los consumidores según sus características psicológicas, comportamientos de compra y relación con la marca, esta tipología permite comprender de manera más profunda las motivaciones y expectativas del cliente, facilitando el diseño de experiencias más relevantes (Solomon, 2018).
+          p.mb-0 La tipología de clientes se refiere a la categorización de los consumidores según sus características psicológicas, comportamientos de compra y relación con la marca; esta tipología permite comprender de manera más profunda las motivaciones y expectativas del cliente, facilitando el diseño de experiencias más relevantes (Solomon, 2018).
 
     p Entre las tipologías más comunes se encuentran clientes racionales, emocionales, impulsivos y analíticos, cada uno con características específicas que influyen en su comportamiento. Por ejemplo, Zara adapta sus estrategias para atender tanto a clientes impulsivos como racionales mediante diseño y rotación de productos.
     p.mb-4.mb-lg-5 La tipología permite diseñar experiencias diferenciadas que respondan a las necesidades específicas de cada tipo de cliente, fortaleciendo la conexión con la marca.
