@@ -36,7 +36,7 @@
         .bg-img.bg-img--3.rounded-5.bg-acento-a5.p-4.py-xl-0
           .row.align-items-center
             .col-lg-8
-              p.mb-4.mb-lg-0 #[strong Ejemplo aplicado]. Starbucks utiliza aromas, música y ambientación para generar una experiencia coherente con su propuesta de valor; estas características permiten amplificar el impacto de la experiencia, logrando mayor recordación y conexión emocional; acá la integración sensorial se convierte en un diferenciador clave en mercados altamente competitivos.
+              p.mb-4.mb-lg-0 #[strong Ejemplo aplicado]. Starbucks utiliza aromas, música y ambientación para generar una experiencia coherente con su propuesta de valor; estas características permiten amplificar el impacto de la experiencia, logrando mayor recordación y conexión emocional. Acá la integración sensorial se convierte en un diferenciador clave en mercados altamente competitivos.
             .col-lg-4
               figure
                 img.iw-262(src="@/assets/curso/tema1/6.png", alt="" data-aos="zoom-in-down")

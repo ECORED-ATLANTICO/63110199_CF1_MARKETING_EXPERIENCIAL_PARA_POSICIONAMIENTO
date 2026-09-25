@@ -491,7 +491,7 @@
             .col-sm-8.col-lg-8.p-4
               p Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer sus conocimientos en los conceptos y aplicaciones del #[em marketing] experiencial.
               TarjetaAudio.mb-3(
-                texto="Estrategias del marketing experiencial"
+                texto="Estrategias del <em>marketing</em> experiencial"
                 tiempo
                 :audio="require('@/assets/audio/estrategia-del-marketing-experiencial.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"

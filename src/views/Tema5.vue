@@ -27,7 +27,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema5/2.png", alt="" data-aos="zoom-in-down")
       .col-lg-10
-        p Las emociones se definen como respuestas afectivas que experimenta el consumidor frente a estímulos internos o externos, influyendo en su percepción y comportamiento; en el contexto del #[em marketing], las emociones son determinantes en la construcción de experiencias y en la toma de decisiones, ya que conectan al consumidor con la marca a un nivel más profundo (Bagozzi, Gopinath & Nyer, 1999).
+        p Las emociones se definen como respuestas afectivas que experimenta el consumidor frente a estímulos internos o externos, influyendo en su percepción y comportamiento. En el contexto del #[em marketing], las emociones son determinantes en la construcción de experiencias y en la toma de decisiones, ya que conectan al consumidor con la marca a un nivel más profundo (Bagozzi, Gopinath & Nyer, 1999).
         p.mb-0 Las emociones permiten a las marcas generar vínculos significativos con sus clientes. Por ejemplo, Coca-Cola ha desarrollado campañas centradas en la felicidad y la conexión social, logrando posicionarse emocionalmente en diferentes mercados; comprender las emociones permite diseñar experiencias que influyan en la percepción del consumidor, fortaleciendo la recordación y la fidelización hacia la marca.
 
     Separador
