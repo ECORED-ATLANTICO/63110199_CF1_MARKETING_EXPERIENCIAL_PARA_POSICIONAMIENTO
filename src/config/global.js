@@ -415,6 +415,11 @@ export default {
     },
     {
       referencia:
+        'Muñoz, M., Fernández, J., & Sánchez, F. (2019). Comportamiento de compra racional e impulsiva de los jóvenes estudiantes en los centros comerciales. RAN: Revista Academia & Negocios, 5(1), 61–70.',
+      link: 'https://revistas.udec.cl/index.php/ran/article/view/2585',
+    },
+    {
+      referencia:
         'Niño Sierra, D. F. (s.f.). <em>Fidelización del cliente</em>. Fundación Universitaria UNIEMPRESARIAL.',
       link:
         'https://bibliotecadigital.ccb.org.co/server/api/core/bitstreams/a4b5d64d-a649-4170-8d61-6b8b400e6dbd/content',

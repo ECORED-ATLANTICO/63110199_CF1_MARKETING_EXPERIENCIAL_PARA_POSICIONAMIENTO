@@ -33,7 +33,7 @@
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.2 Tipos
 
-    p.mb-4.z-2 Los tipos de decisión de compra se clasifican principalmente en impulsiva y racional, cada una con características específicas que determinan el comportamiento del consumidor. La compra impulsiva se caracteriza por ser rápida, emocional y poco planificada, mientras que la compra racional implica análisis, comparación y evaluación de alternativas.
+    p.mb-4.z-2 Los tipos de decisión de compra se clasifican principalmente en impulsiva y racional, cada una con características específicas que determinan el comportamiento del consumidor. La compra impulsiva se caracteriza por ser rápida, emocional y poco planificada, mientras que la compra racional implica análisis, comparación y evaluación de alternativas (Muñoz et al., 2019).
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -154,7 +154,7 @@
             img(src='@/assets/curso/tema6/8.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Las características de las decisiones de compra impulsiva y racional permiten diferenciar el comportamiento del consumidor según el tipo de decisión que realiza; la compra impulsiva se caracteriza por ser emocional, rápida y poco planificada, mientras que la compra racional se basa en el análisis, la comparación y la evaluación de alternativas (Solomon, 2018).
+            p.mb-0(data-aos="fade-up") En una decisión de compra pueden intervenir tanto la reflexión como las respuestas inmediatas a estímulos del entorno. La compra impulsiva suele presentarse sin planificación previa y estar vinculada con emociones y condiciones del punto de venta. En una compra más deliberada, el consumidor puede planificar y comparar precios, marcas y calidad antes de elegir (Muñoz et al., 2019).
 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
@@ -253,9 +253,9 @@
                 img.mb-4.mb-lg-0.iw-108(src="@/assets/curso/tema1/12.svg", alt="" data-aos="zoom-in-down")
             .col-lg-8
               h5.mb-1 Comportamiento del consumidor
-              p.mb-4.mb-lg-0 Para ampliar sus conocimientos sobre el comportamiento del consumidor, consulte el documento disponible en el siguiente enlace.
+              p.mb-4.mb-lg-0 Lo invitamos a consultar el artículo Comportamiento de compra racional e impulsiva de los jóvenes estudiantes en los centros comerciales para ampliar sus conocimientos sobre los factores que intervienen en estas formas de decisión de compra.
             .col-4.col-lg-2
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Comportamiento_del_consumidor_Solomon.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_02_Comportamiento_compra_impulsiva.pdf')" target="_blank")  
                 span Anexo
                 i.fas.fa-file-pdf
 

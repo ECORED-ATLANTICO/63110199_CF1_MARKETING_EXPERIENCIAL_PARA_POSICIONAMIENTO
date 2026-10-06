@@ -356,7 +356,7 @@
               h5.mb-1 Segmentación, mercado meta y posicionamiento.
               p.mb-4.mb-lg-0 Para ampliar sus conocimientos sobre la segmentación de mercados, los mercados metan y el posicionamiento, consulte el documento disponible en el siguiente enlace.
             .col-4.col-lg-2
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Segmentacion-mercado-meta-posicionamiento.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_01_Segmentacio_mercado.pdf')" target="_blank")
                 span Anexo
                 i.fas.fa-file-pdf
 
